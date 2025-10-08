@@ -43,7 +43,7 @@ services:
       REFRESH_TOKEN_EXPIRE_DAYS: ${REFRESH_TOKEN_EXPIRE_DAYS:-1}
       REDIS_HOST: ${REDIS_HOST:-localhost}
       REDIS_PORT: ${REDIS_PORT:-6379}
-      OPENAI_API_KEY: ${OPENAI_API_KEY:-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}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-your-openai-api-key-here}
     depends_on:
       mysql:
         condition: service_healthy

@@ -62,9 +62,10 @@ def create_staff(staff: schemas.StaffCreate, db: Session = Depends(get_db), curr
         raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail="Not authorized to create staff")
     
     # Create user account first
+    from ..utils import hash
     user = models.User(
         email=staff.email,
-        password="temporary_password",  # This should be handled properly in production
+        password=hash("temporary_password"),  # Hash the temporary password
         institution_id=current_user.institution_id,
         role="staff"
     )
