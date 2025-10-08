@@ -1,0 +1,39 @@
+FROM node:23.8.0-alpine as builder
+
+# Set working directory
+WORKDIR /app
+
+# Set Node environment
+ENV NODE_ENV=production
+ENV SKIP_PREFLIGHT_CHECK=true
+
+# Copy package files
+COPY frontend/package.json frontend/package-lock.json ./
+
+# Install dependencies with legacy peer deps flag for better compatibility
+RUN npm ci --legacy-peer-deps
+
+# Copy application code
+COPY frontend/ .
+
+# Build the application
+RUN npm run build && ls -la dist/
+
+# Create a new stage for serving static files
+FROM nginx:alpine
+
+# Copy built static files from builder
+COPY --from=builder /app/dist /usr/share/nginx/html
+
+# Copy nginx configuration for static files
+COPY nginx.conf /etc/nginx/nginx.conf
+
+# Add healthcheck
+HEALTHCHECK --interval=30s --timeout=3s \
+  CMD wget --no-verbose --tries=1 --spider http://localhost/ || exit 1
+
+# Expose port
+EXPOSE 80
+
+# Start nginx
+CMD ["nginx", "-g", "daemon off;"]

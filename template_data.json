@@ -1,0 +1,2186 @@
+{
+    "1": {
+        "study_name": "CT Abdomen",
+        "templates": [
+            {
+                "id": 1,
+                "is_default": true,
+                "name": "CT Abdomen",
+                "owner": null,
+                "study_name": "CT Abdomen",
+                "template_data": "EXAM:\nCT Abdomen [with or without] Intravenous Contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the abdomen [with or without]  intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\n[With or Wirhout;]\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLUNG BASES:\nNo basilar airspace consolidation or pleural effusion.\n \nLIVER:\nUnremarkable. No focal lesions.\n \nGALLBLADDER AND BILE DUCTS:\nUnremarkable. No calcified stone. No ductal dilation.\n \nPANCREAS:\nUnremarkable.\n \nSPLEEN:\nUnremarkable.\n \nADRENAL GLANDS:\nUnremarkable.\n \nKIDNEYS AND URETERS:\nUnremarkable. No hydronephrosis or nephrolithiasis.\n \nSTOMACH AND BOWEL:\nNo obstruction. No wall thickening. No CT evidence of colitis or acute diverticulitis.\n \nPERITONEUM:\nNo free fluid. No free air.\n \nLYMPH NODES:\nNo lymphadenopathy.\n \nVASCULATURE:\nNo aortic aneurysm.\n \nABDOMINAL WALL AND SOFT TISSUES:\nUnremarkable.\n \nBONES:\nNo acute osseous abnormality.\n \nIMPRESSION:\n \nNo acute intra-abdominal abnormality."
+            }
+        ]
+    },
+    "2": {
+        "study_name": "CT Abdomen and Pelvis",
+        "templates": [
+            {
+                "id": 2,
+                "is_default": true,
+                "name": "CT Abdomen and Pelvis",
+                "owner": null,
+                "study_name": "CT Abdomen and Pelvis",
+                "template_data": "EXAM:\nCT Abdomen and Pelvis [with or without] Intravenous Contrast\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nAxial computed tomography images of the abdomen and pelvis [without or with] intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n\nCOMPARISON:\nNone provided. \n\nFINDINGS:\n\nLUNG BASES:\nNo basilar airspace consolidation or pleural effusion.\n\nLIVER:\nUnremarkable.\n\nGALLBLADDER AND BILE DUCTS:\nUnremarkable. No calcified stone. No ductal dilation.\n\nPANCREAS:\nUnremarkable.\n\nSPLEEN:\nUnremarkable.\n\nADRENAL GLANDS:\nUnremarkable.\n\nKIDNEYS, URETERS, AND BLADDER:\nUnremarkable. No hydronephrosis or nephrolithiasis. No ureteral or bladder calculi.\n\nSTOMACH AND BOWEL:\nNo obstruction. No wall thickening. No CT evidence of colitis or acute diverticulitis.\n\nAPPENDIX:\nNo CT evidence for appendicitis.\n\nPERITONEUM:\nNo free fluid. No free air.\n\nLYMPH NODES:\nNo lymphadenopathy.\n\nREPRODUCTIVE:\nUnremarkable as visualized.\n\nVASCULATURE:\nNo aortic aneurysm.\n\nABDOMINAL WALL AND SOFT TISSUES:\nUnremarkable.\n\nBONES:\nNo fracture or suspicious osseous abnormality.\n\nIMPRESSION:\n\nNo acute intra-abdominal or pelvic abnormality."
+            }
+        ]
+    },
+    "3": {
+        "study_name": "CT Ankle",
+        "templates": [
+            {
+                "id": 3,
+                "is_default": true,
+                "name": "CT Ankle",
+                "owner": null,
+                "study_name": "CT Ankle",
+                "template_data": "EXAM:\nCT [_laterality_] [Generic Bone], [without or with] IV contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial images were acquired through the [_laterality_] [generic bone] [without or with] IV contrast. Reformatted images were reviewed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nJOINTS:\nNo dislocation. The joint spaces are normal.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "4": {
+        "study_name": "CT Cervical Spine",
+        "templates": [
+            {
+                "id": 4,
+                "is_default": true,
+                "name": "CT Cervical Spine",
+                "owner": null,
+                "study_name": "CT Cervical Spine",
+                "template_data": "EXAM:\nCT Cervical Spine [Without or With] Intravenous Contrast.\n\nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the [generic] spine [without or with] intravenous contrast. Sagittal and coronal reformations performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided. \n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\nBony alignment is anatomic.\n \nDISCS / DEGENERATIVE CHANGES:\nNo significant disc or facet degeneration.\nNo significant central canal or neural foraminal stenosis.\n \nSOFT TISSUES:\nNo prevertebral soft tissue swelling.\n \nIMPRESSION:\n \nNo acute [generic] spine fracture or dislocation."
+            }
+        ]
+    },
+    "5": {
+        "study_name": "CT Chest",
+        "templates": [
+            {
+                "id": 5,
+                "is_default": true,
+                "name": "CT Chest",
+                "owner": null,
+                "study_name": "CT Chest",
+                "template_data": "EXAM:\nCT Chest [Without or With]Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the chest [without or with] intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or Without;]\n \nCOMPARISON:\nNone provided. \n \nFINDINGS:\n \nLUNGS:\nNo pulmonary mass. No focal airspace consolidation.\n \nPLEURAL SPACES:\nNo pleural effusion. No pneumothorax.\n \nHEART AND MEDIASTINUM:\nNo cardiomegaly. No significant pericardial effusion.\n \nLYMPH NODES:\nNo lymphadenopathy.\n \nCHEST WALL AND UPPER ABDOMEN:\nThe upper abdominal solid organs are unremarkable. The chest wall is unremarkable.\n \nBONES:\nNo acute osseous abnormality.\n \nIMPRESSION:\n \nNo acute intra-thoracic abnormality."
+            }
+        ]
+    },
+    "6": {
+        "study_name": "CT Chest and Abdomen",
+        "templates": [
+            {
+                "id": 6,
+                "is_default": true,
+                "name": "CT Chest and Abdomen",
+                "owner": null,
+                "study_name": "CT Chest and Abdomen",
+                "template_data": "EXAM:\nCT Chest [with or without] Intravenous Contrast.\nCT Abdomen [with or without] Intravenous Contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the chest, abdomen and pelvis [with or without] intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\nCHEST:\n \nLUNGS:\nNo pulmonary mass. No focal airspace consolidation.\n \nPLEURAL SPACES:\nNo pleural effusion. No pneumothorax.\n \nHEART AND MEDIASTINUM:\nNo cardiomegaly. No significant pericardial effusion.\n \nLYMPH NODES:\nNo lymphadenopathy.\nABDOMEN:\n \nLIVER:\nUnremarkable. No focal lesions.\n \nGALLBLADDER AND BILE DUCTS:\nUnremarkable. No calcified stone. No ductal dilation.\n \nPANCREAS:\nUnremarkable.\n \nSPLEEN:\nUnremarkable.\n \nADRENAL GLANDS:\nUnremarkable.\n \nKIDNEYS AND URETERS:\nUnremarkable. No hydronephrosis or nephrolithiasis.\n \nSTOMACH AND BOWEL:\nNo obstruction. No wall thickening. No CT evidence of colitis or acute diverticulitis.\n \nPERITONEUM:\nNo free fluid. No free air.\n \nVASCULATURE:\nNo aortic aneurysm.\n \nBONES AND SOFT TISSUES:\nNo acute osseous abnormality. The soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute intra-thoracic or intra-abdominal abnormality."
+            }
+        ]
+    },
+    "7": {
+        "study_name": "CT Chest, Abdomen, and Pelvis",
+        "templates": [
+            {
+                "id": 7,
+                "is_default": true,
+                "name": "CT Chest, Abdomen, and Pelvis",
+                "owner": null,
+                "study_name": "CT Chest, Abdomen, and Pelvis",
+                "template_data": "EXAM:\nCT Chest [with or without] Intravenous Contrast.\nCT Abdomen and Pelvis [with or without] Intravenous Contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the chest, abdomen and pelvis [with or without] intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nCHEST:\n \nLUNGS:\nNo pulmonary mass. No focal airspace consolidation.\n \nPLEURAL SPACES:\nNo pleural effusion. No pneumothorax.\n \nHEART AND MEDIASTINUM:\nNo cardiomegaly. No significant pericardial effusion.\n \nLYMPH NODES:\nNo lymphadenopathy.\n \nABDOMEN AND PELVIS:\n \nLIVER:\nUnremarkable. No focal lesions.\n \nGALLBLADDER AND BILE DUCTS:\nUnremarkable. No calcified stone. No ductal dilation.\n \nPANCREAS:\nUnremarkable.\n \nSPLEEN:\nUnremarkable.\n \nADRENAL GLANDS:\nUnremarkable.\n \nKIDNEYS, URETERS, AND BLADDER:\nUnremarkable. No hydronephrosis or nephrolithiasis. No ureteral or bladder calculi.\n \nSTOMACH AND BOWEL:\nNo obstruction. No wall thickening. No CT evidence of colitis or acute diverticulitis.\n \nAPPENDIX:\nNo CT evidence for appendicitis.\n \nPERITONEUM:\nNo free fluid. No free air.\n \nLYMPH NODES:\nNo lymphadenopathy.\n \nREPRODUCTIVE:\nUnremarkable as visualized.\n \nVASCULATURE:\nNo aortic aneurysm.\n \nBONES AND SOFT TISSUES:\nNo acute osseous abnormality. The soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute intra-thoracic, intra-abdominal, or intra-pelvic abnormality."
+            }
+        ]
+    },
+    "8": {
+        "study_name": "CT Head",
+        "templates": [
+            {
+                "id": 8,
+                "is_default": true,
+                "name": "CT Head",
+                "owner": null,
+                "study_name": "CT Head",
+                "template_data": "EXAM:\nCT Head [Without or With] Intravenous Contrast.\n\nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the head/brain [without or with] intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or Without;]\n \nCOMPARISON:\nNone.\n \nFINDINGS:\n \nBRAIN:\nNo acute intraparenchymal hemorrhage. No mass lesion. No CT evidence for acute territorial infarct. No midline shift or extra-axial collection. \n \nVENTRICLES:\nNo hydrocephalus.\n \nORBITS:\nThe orbits are unremarkable.\n \nSINUSES AND MASTOIDS:\nThe paranasal sinuses and mastoid air cells are clear.\n \nSOFT TISSUES:\nNo significant facial or scalp soft tissue swelling evident. No radiopaque foreign body is seen.\n \nBONES:\nNo acute skull fracture.\n \nIMPRESSION:\n \nNo acute intracranial abnormality."
+            }
+        ]
+    },
+    "9": {
+        "study_name": "CT Head and Cervical Spine",
+        "templates": [
+            {
+                "id": 9,
+                "is_default": true,
+                "name": "CT Head and Cervical Spine",
+                "owner": null,
+                "study_name": "CT Head and Cervical Spine",
+                "template_data": "EXAM:\nCT Head and Cervical Spine [Without or with] IV contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images were acquired of the head and the cervical spine [without or with] intravenous contrast. Sagittal and coronal reformatted images were obtained of the cervical spine. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n\nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBRAIN:\nNo acute intraparenchymal hemorrhage. No mass lesion. No CT evidence for acute territorial infarct. No midline shift or extra-axial collection.\n \nVENTRICLES\nNo hydrocephalus.\n \nORBITS\nThe orbits are unremarkable.\n \nSINUSES AND MASTOIDS\nThe paranasal sinuses and mastoid air cells are clear.\n \nSOFT TISSUES\nNo significant facial or scalp soft tissue swelling evident. No radiopaque foreign body is seen.\n \nBONES\nNo acute osseous pathology evident.\n \nDISKS/DEGENERATIVE CHANGES\nNo significant disc or facet degeneration.\nPosterior cervical spine vertebral body alignment is within normal limits.\n \nIMPRESSION:\n \n1. No acute intracranial findings. No acute intracranial injury evident.\n2. No cervical spine fracture evident."
+            }
+        ]
+    },
+    "10": {
+        "study_name": "CT Head and Facial Bones",
+        "templates": [
+            {
+                "id": 10,
+                "is_default": true,
+                "name": "CT Head and Facial Bones",
+                "owner": null,
+                "study_name": "CT Head and Facial Bones",
+                "template_data": "EXAM:\nCT Head and Facial bones [Without or with] IV contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images were acquired of the head/brain, and of the facial bones, [without or with] intravenous contrast.\nSagittal and coronal reformatted images were obtained of the facial bones. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBRAIN:\nNo acute intraparenchymal hemorrhage. No mass lesion. No CT evidence for acute territorial infarct. No midline shift or extra-axial collection.\n \nVENTRICLES:\nNo hydrocephalus.\n \nORBITS:\nThe orbits are unremarkable.\n \nSINUSES AND MASTOIDS:\nThe paranasal sinuses and mastoid air cells are clear.\n \nSOFT TISSUES:\nNo significant facial or scalp soft tissue swelling evident. No radiopaque foreign body is seen.\n \nBONES:\nNo acute fracture is evident on images of the facial bones, or the head.\n \nIMPRESSION:\n \n1. No acute intracranial findings.\n2. No facial bone fracture evident."
+            }
+        ]
+    },
+    "11": {
+        "study_name": "CT Head, Cervical Spine, and Facial Bones",
+        "templates": [
+            {
+                "id": 11,
+                "is_default": true,
+                "name": "CT Head, Cervical Spine, and Facial Bones",
+                "owner": null,
+                "study_name": "CT Head, Cervical Spine, and Facial Bones",
+                "template_data": "EXAM:\nCT Head, Facial bones, and Cervical Spine [Without or with] IV contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images were acquired of the head, facial bones, and the cervical spine [without or with] intravenous contrast.\nSagittal and coronal reformatted images were obtained of the facial bones and cervical spine. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBRAIN:\nNo acute intraparenchymal hemorrhage. No mass lesion. No CT evidence for acute territorial infarct. No midline shift or extra-axial collection.\n \nVENTRICLES\nNo hydrocephalus.\n \nORBITS\nThe orbits are unremarkable.\n \nSINUSES AND MASTOIDS\nThe paranasal sinuses and mastoid air cells are clear.\n \nSOFT TISSUES\nNo significant facial or scalp soft tissue swelling evident. No radiopaque foreign body is seen.\n \nBONES\nNo acute osseous pathology evident.\n \nDISKS/DEGENERATIVE CHANGES\nNo significant disc or facet degeneration.\nPosterior cervical spine vertebral body alignment is within normal limits.\n \nIMPRESSION:\n \n1. No acute intracranial findings. No acute intracranial injury evident.\n2. No acute facial bone fracture evident.\n3. No cervical spine fracture evident."
+            }
+        ]
+    },
+    "12": {
+        "study_name": "CT Hip",
+        "templates": [
+            {
+                "id": 12,
+                "is_default": true,
+                "name": "CT Hip",
+                "owner": null,
+                "study_name": "CT Hip",
+                "template_data": "EXAM:\nCT [_laterality_] [Generic Bone], [without or with] IV contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial images were acquired through the [_laterality_] [generic bone] [without or with] IV contrast. Reformatted images were reviewed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nJOINTS:\nNo dislocation. The joint spaces are normal.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "13": {
+        "study_name": "CT Knee",
+        "templates": [
+            {
+                "id": 13,
+                "is_default": true,
+                "name": "CT Knee",
+                "owner": null,
+                "study_name": "CT Knee",
+                "template_data": "EXAM:\nCT [_laterality_] [Generic Bone], [without or with] IV contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial images were acquired through the [_laterality_] [generic bone] [without or with] IV contrast. Reformatted images were reviewed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nJOINTS:\nNo dislocation. The joint spaces are normal.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "14": {
+        "study_name": "CT Lower Extremity",
+        "templates": [
+            {
+                "id": 14,
+                "is_default": true,
+                "name": "CT Lower Extremity",
+                "owner": null,
+                "study_name": "CT Lower Extremity",
+                "template_data": "EXAM:\nCT [_laterality_] [Generic Bone], [without or with] IV contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial images were acquired through the [_laterality_] [generic bone] [without or with] IV contrast. Reformatted images were reviewed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or Without;]\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nJOINTS:\nNo dislocation. The joint spaces are normal.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "15": {
+        "study_name": "CT Lumbar Spine",
+        "templates": [
+            {
+                "id": 15,
+                "is_default": true,
+                "name": "CT Lumbar Spine",
+                "owner": null,
+                "study_name": "CT Lumbar Spine",
+                "template_data": "EXAM:\nCT Lumbar Spine [Without or With] Intravenous Contrast\n\nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the [generic] spine [without or with] intravenous contrast. Sagittal and coronal reformations performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided. \n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\nBony alignment is anatomic.\n \nDISCS / DEGENERATIVE CHANGES:\nNo significant disc or facet degeneration.\nNo significant central canal or neural foraminal stenosis.\n \nSOFT TISSUES:\nNo prevertebral soft tissue swelling.\n \nIMPRESSION:\n \nNo acute [generic] spine fracture or dislocation."
+            }
+        ]
+    },
+    "16": {
+        "study_name": "CT Maxillofacial/Facial Bones",
+        "templates": [
+            {
+                "id": 16,
+                "is_default": true,
+                "name": "CT Maxillofacial/Facial Bones",
+                "owner": null,
+                "study_name": "CT Maxillofacial/Facial Bones",
+                "template_data": "EXAM:\nCT Maxillofacial [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the face [with or without] intravenous contrast. Sagittal and coronal reformations performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion. The mandible is intact.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nSINUSES:\nThe sinuses are clear.\n \nORBITS:\nThe orbits are normal. No retrobulbar hematoma or mass.\n \nIMPRESSION:\n \nNo acute findings within maxillofacial CT."
+            }
+        ]
+    },
+    "17": {
+        "study_name": "CT Neck",
+        "templates": [
+            {
+                "id": 17,
+                "is_default": true,
+                "name": "CT Neck",
+                "owner": null,
+                "study_name": "CT Neck",
+                "template_data": "EXAM:\nCT Neck [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the neck [with or without] intravenous contrast. Sagittal and coronal reformations performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nPHARYNX:\nThe nasopharynx, oropharynx, and hypopharynx are unremarkable. No pharyngeal mucosal based mass lesions.\n \nLARYNX:\nThe larynx is unremarkable. Normal epiglottis.\n \nRETROPHARYNGEAL SPACE:\nNo retropharyngeal soft tissue swelling or gas.\n \nSALIVARY GLANDS:\nThe parotid, submandibular, and sublingual glands are unremarkable.\n \nLYMPH NODES:\nNo lymphadenopathy.\n \nTHYROID:\nThe thyroid gland is unremarkable. No nodule.\n \nBONES:\nNo acute osseous abnormality.\n \nIMPRESSION:\n \nNo acute findings within the soft tissues of the neck  [with or without] IV contrast."
+            }
+        ]
+    },
+    "18": {
+        "study_name": "CT Orbits",
+        "templates": [
+            {
+                "id": 18,
+                "is_default": true,
+                "name": "CT Orbits",
+                "owner": null,
+                "study_name": "CT Orbits",
+                "template_data": "EXAM:\nCT Orbits [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the orbits [with or without]  intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\n[With and without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nORBITS:\nUnremarkable. No retrobulbar hematoma. No post-septal fat stranding or fluid\n \nBONES:\nNo acute fracture or focal osseous lesion. No periosteal reaction.\n \nSINUSES:\nNo sinus air-fluid level as visualized.\n \nSOFT TISSUES:\nNo soft tissue gas. No radiopaque foreign body.\n \nIMPRESSION:\n \nNo acute orbital abnormalities."
+            }
+        ]
+    },
+    "19": {
+        "study_name": "CT Pelvis",
+        "templates": [
+            {
+                "id": 19,
+                "is_default": true,
+                "name": "CT Pelvis",
+                "owner": null,
+                "study_name": "CT Pelvis",
+                "template_data": "EXAM:\nCT [_laterality_] [Generic Bone], [without or with] IV contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial images were acquired through the [_laterality_] [generic bone] [without or with] IV contrast. Reformatted images were reviewed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or Without;]\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nJOINTS:\nNo dislocation. The joint spaces are normal.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "20": {
+        "study_name": "CT Shoulder",
+        "templates": [
+            {
+                "id": 20,
+                "is_default": true,
+                "name": "CT Shoulder",
+                "owner": null,
+                "study_name": "CT Shoulder",
+                "template_data": "EXAM:\nCT [_laterality_] [Generic Bone], [without or with] IV contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial images were acquired through the [_laterality_] [generic bone] [without or with] IV contrast. Reformatted images were reviewed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nJOINTS:\nNo dislocation. The joint spaces are normal.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "21": {
+        "study_name": "CT Sinuses",
+        "templates": [
+            {
+                "id": 21,
+                "is_default": true,
+                "name": "CT Sinuses",
+                "owner": null,
+                "study_name": "CT Sinuses",
+                "template_data": "EXAM:\nCT Sinuses [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nComputed tomography images of the maxillofacial sinuses [with or without] intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nPARANASAL SINUSES:\nThe sinuses are well aerated, normally developed, and clear.\n \nORBITS:\nUnremarkable.\n \nNASAL CAVITY/SEPTUM:\nPatent.\n \nBONES:\nNo acute osseous abnormality.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute sinusitis."
+            }
+        ]
+    },
+    "22": {
+        "study_name": "CT Temporal Bone",
+        "templates": [
+            {
+                "id": 22,
+                "is_default": true,
+                "name": "CT Temporal Bone",
+                "owner": null,
+                "study_name": "CT Temporal Bone",
+                "template_data": "EXAM:\nCT Temporal Bones [without or with] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the temporal bones without intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nRIGHT OSSICLES AND MIDDLE EAR:\nThe ossicles are intact. No middle ear fluid.\n \nRIGHT COCHLEA:\nNormal 2-1/2 turns.\n \nRIGHT VESTIBULE:\nUnremarkable.\n \nRIGHT SEMICIRCULAR CANALS:\nNo dehiscence.\n \nRIGHT VESTIBULAR AND COCHLEAR AQUEDUCTS:\nNo enlargement.\n \nRIGHT FACIAL NERVE CANAL:\nNo widening.\n \nRIGHT INTERNAL AUDITORY CANAL:\nNo enlargement.\n \nRIGHT EXTERNAL AUDITORY CANAL:\nPatent.\n \nRIGHT CAROTID CANAL:\nNo aberrancy.\n \nRIGHT JUGULAR FORAMEN:\nNo enlargement.\n \nRIGHT MASTOID AIR CELLS:\nClear.\n \nRIGHT TEMPOROMANDIBULAR JOINT:\nNo dislocation.\n \nLEFT OSSICLES AND MIDDLE EAR:\nThe ossicles are intact. No middle ear fluid.\n \nLEFT COCHLEA:\nNormal 2-1/2 turns.\n \nLEFT VESTIBULE:\nUnremarkable.\n \nLEFT SEMICIRCULAR CANALS:\nNo dehiscence.\n \nLEFT VESTIBULAR AND COCHLEAR AQUEDUCTS:\nNo enlargement.\n \nLEFT FACIAL NERVE CANAL:\nNo widening.\n \nLEFT INTERNAL AUDITORY CANAL:\nNo enlargement.\n \nLEFT EXTERNAL AUDITORY CANAL:\nPatent.\n \nLEFT CAROTID CANAL:\nNo aberrancy.\n \nLEFT JUGULAR FORAMEN:\nNo enlargement.\n \nLEFT MASTOID AIR CELLS:\nClear.\n \nLEFT TEMPOROMANDIBULAR JOINT:\nNo dislocation.\n \nBONES:\nNo acute osseous abnormality.\n \nVISUALIZED PARANASAL SINUSES:\nClear.\n \nPERIAURICULAR SOFT TISSUES:\nUnremarkable.\n \nIMPRESSION:\n \nNormal temporal bones."
+            }
+        ]
+    },
+    "23": {
+        "study_name": "CT Thoracic Spine",
+        "templates": [
+            {
+                "id": 23,
+                "is_default": true,
+                "name": "CT Thoracic Spine",
+                "owner": null,
+                "study_name": "CT Thoracic Spine",
+                "template_data": "EXAM: \nCT Thoracic Spine [Without or With] Intravenous Contrast. \n\nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial computed tomography images of the [generic] spine [without or with] intravenous contrast. Sagittal and coronal reformations performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided. \n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\nBony alignment is anatomic.\n \nDISCS / DEGENERATIVE CHANGES:\nNo significant disc or facet degeneration.\nNo significant central canal or neural foraminal stenosis.\n \nSOFT TISSUES:\nNo prevertebral soft tissue swelling.\n \nIMPRESSION:\n \nNo acute [generic] spine fracture or dislocation."
+            }
+        ]
+    },
+    "24": {
+        "study_name": "CT Upper Extremity",
+        "templates": [
+            {
+                "id": 24,
+                "is_default": true,
+                "name": "CT Upper Extremity",
+                "owner": null,
+                "study_name": "CT Upper Extremity",
+                "template_data": "EXAM:\nCT [_laterality_] [Generic Bone], [without or with] IV contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial images were acquired through the [_laterality_] [generic bone] [without or with] IV contrast. Reformatted images were reviewed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or Without;]\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nJOINTS:\nNo dislocation. The joint spaces are normal.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "25": {
+        "study_name": "CT Wrist",
+        "templates": [
+            {
+                "id": 25,
+                "is_default": true,
+                "name": "CT Wrist",
+                "owner": null,
+                "study_name": "CT Wrist",
+                "template_data": "EXAM:\nCT [_laterality_] [Generic Bone], [without or with] IV contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial images were acquired through the [_laterality_] [generic bone] [without or with] IV contrast. Reformatted images were reviewed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nJOINTS:\nNo dislocation. The joint spaces are normal.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "26": {
+        "study_name": "CTA Abdomen and Pelvis",
+        "templates": [
+            {
+                "id": 26,
+                "is_default": true,
+                "name": "CTA Abdomen and Pelvis",
+                "owner": null,
+                "study_name": "CTA Abdomen and Pelvis",
+                "template_data": "EXAM:\nCTA Abdomen and Pelvis with Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial CTA images of the abdomen and pelvis with intravenous contrast. Three-dimensional MIP/volume rendered reformations were performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\nWith;\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nVASCULATURE:\n \nAorta:\nNo acute finding. No abdominal aortic aneurysm. No dissection.\n \nCeliac trunk:\nNo acute finding. No occlusion or significant stenosis.\n \nSuperior mesenteric artery:\nNo acute finding. No occlusion or significant stenosis.\n \nInferior mesenteric artery:\nNo acute finding. No occlusion or significant stenosis.\n \nRenal arteries:\nNo acute finding. No occlusion or significant stenosis.\n \nIliac arteries:\nNo acute finding. No occlusion or significant stenosis.\n \nLower thorax:\nNo basilar airspace consolidation.\n \nABDOMEN:\n \nLiver:\nUnremarkable. No mass.\n \nGallbladder and bile ducts:\nNo calcified stone. No ductal dilation.\n \nPancreas:\nUnremarkable. No ductal dilation.\n \nSpleen:\nUnremarkable.\n \nAdrenals:\nNo mass.\n \nKidneys and ureters:\nThe kidneys enhance symmetrically. No hydronephrosis. No solid mass.\n \nStomach and bowel:\nNo obstruction. No bowel wall thickening. No CT evidence of acute diverticulitis.\n \nAbdominal wall and soft tissues:\nUnremarkable.\n \nAppendix:\nNo CT evidence for appendicitis.\nPELVIS:\n \nBladder:\nUnremarkable.\n \nReproductive:\nUnremarkable as visualized.\n \nPeritoneum:\nNo free fluid. No free air.\n \nLymph nodes:\nNo lymphadenopathy.\n \nBones:\nNo acute osseous abnormality.\n \nIMPRESSION:\n \nNo occlusion or hemodynamically significant stenosis of the arterial system of the abdomen or pelvis. No AAA. No aortic dissection."
+            }
+        ]
+    },
+    "27": {
+        "study_name": "CTA Abdomen, Pelvis, and Lower Extremity",
+        "templates": [
+            {
+                "id": 27,
+                "is_default": true,
+                "name": "CTA Abdomen, Pelvis, and Lower Extremity",
+                "owner": null,
+                "study_name": "CTA Abdomen, Pelvis, and Lower Extremity",
+                "template_data": "EXAM:\nCTA Abdomen and Pelvis With Runoff to the Lower Extremities with Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial CTA images of the abdomen, pelvis and lower extremities with intravenous contrast. Three-dimensional MIP/volume rendered formations were performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\nWith;\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nVASCULATURE:\n \nAorta:\nNo acute finding. No abdominal aortic aneurysm. No dissection.\n \nCeliac trunk:\nNo acute finding. No occlusion or significant stenosis.\n \nSuperior mesenteric artery:\nNo acute finding. No occlusion or significant stenosis.\n \nInferior mesenteric artery:\nNo acute finding. No occlusion or significant stenosis.\n \nRenal arteries:\nNo acute finding. No occlusion or significant stenosis.\n \nRight iliac arteries:\nNo acute finding. No occlusion or significant stenosis.\n \nRight femoral arteries:\nNo acute finding. No occlusion or significant stenosis.\n \nRight popliteal artery\nNo acute finding. No occlusion or significant stenosis.\n \nRight calf arteries:\nNo acute finding. No occlusion or significant stenosis.\n \nLeft iliac arteries\nNo acute finding. No occlusion or significant stenosis.\n \nLeft femoral arteries\nNo acute finding. No occlusion or significant stenosis.\n \nLeft popliteal artery:\nNo acute finding. No occlusion or significant stenosis.\n \nLeft calf arteries:\nNo acute finding. No occlusion or significant stenosis.\n \nLower thorax:\nNo basilar airspace consolidation.\n \nABDOMEN:\n \nLiver:\nUnremarkable. No mass.\n \nGallbladder and bile ducts:\nNo calcified stone. No ductal dilation.\n \nPancreas:\nUnremarkable. No ductal dilation.\n \nSpleen:\nUnremarkable.\n \nAdrenals:\nNo mass.\n \nKidneys, ureters, and bladder:\nThe kidneys enhance symmetrically. No hydronephrosis. No solid mass.\n \nStomach and bowel:\nNo obstruction. No bowel wall thickening. No CT evidence of acute diverticulitis.\n \nAbdominal wall and soft tissues:\nUnremarkable.\n \nAppendix:\nNo CT evidence for appendicitis.\n \nReproductive:\nUnremarkable.\n \nPeritoneum:\nNo free fluid. No free air.\n \nLymph nodes:\nNo lymphadenopathy.\n \nBones:\nNo acute osseous abnormality.\n \nSoft tissues:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo occlusion or hemodynamically significant stenosis of the arterial system of the abdomen, pelvis, or bilateral lower extremities. No AAA. No aortic dissection."
+            }
+        ]
+    },
+    "28": {
+        "study_name": "CTA Chest",
+        "templates": [
+            {
+                "id": 28,
+                "is_default": true,
+                "name": "CTA Chest",
+                "owner": null,
+                "study_name": "CTA Chest",
+                "template_data": "EXAM:\nCTA Chest with Intravenous Contrast\n \nCLINICAL HISTORY:\n \n \nTECHNIQUE:\nAxial CTA images of the chest with intravenous contrast. Three-dimensional MIP/volume rendered reformations were performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\nWith;  \n \nCOMPARISON:\nNone provided.  \n \nFINDINGS:\n \nPULMONARY ARTERIES:\nThere is no intraluminal filling defect suspicious for PE.\n \nAORTA:\nNo thoracic aortic aneurysm or dissection.\n \nLUNGS:\nThe lungs are clear. No pulmonary mass. No focal airspace consolidation.\n \nPLEURAL SPACES:\nNo pleural effusion. No pneumothorax.\n \nHEART AND MEDIASTINUM:\nNo cardiomegaly. No significant pericardial effusion.\n \nLYMPH NODES:\nNo lymphadenopathy.\n \nBONES:\nNo focal osseous abnormality or acute fracture.\n \nCHEST WALL AND UPPER ABDOMEN:\nImages through the upper abdomen are unremarkable. The chest wall is unremarkable.\n \nIMPRESSION:\n \nUnremarkable CTA of the chest."
+            }
+        ]
+    },
+    "29": {
+        "study_name": "CTA Chest and Abdomen",
+        "templates": [
+            {
+                "id": 29,
+                "is_default": true,
+                "name": "CTA Chest and Abdomen",
+                "owner": null,
+                "study_name": "CTA Chest and Abdomen",
+                "template_data": "EXAM:\nCTA Chest and Abdomen with Intravenous Contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial CTA images of the chest and abdomen with intravenous contrast. Reformatted images were created and reviewed. Three-dimensional MIP/volume rendered reformations were performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\nWith;\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nVASCULATURE:\n \nAorta:\nNo acute finding. No abdominal aortic aneurysm. No dissection.\n \nPulmonary arteries:\nThe pulmonary arteries are adequately opacified. No pulmonary embolism.\n \nGreat vessels of aortic arch:\nNo acute finding. No dissection. No arterial occlusion or significant stenosis.\n \nCeliac trunk:\nNo acute finding. No occlusion or significant stenosis.\n \nSuperior mesenteric artery:\nNo acute finding. No occlusion or significant stenosis.\n \nInferior mesenteric artery:\nNo acute finding. No occlusion or significant stenosis.\n \nRenal arteries:\nNo acute finding. No occlusion or significant stenosis.\n \nIliac arteries:\nNo acute finding. No occlusion or significant stenosis.\n \nCHEST:\n \nLungs:\nUnremarkable. No mass. No consolidation.\n \nPleural spaces:\nNo evidence of pneumothorax. No pleural effusion.\n \nHeart and mediastinum:\nNo cardiomegaly. No significant pericardial effusion.\n \nABDOMEN:\n \nLiver:\nUnremarkable. No mass.\n \nGallbladder and bile ducts:\nNo calcified stone. No ductal dilation.\n \nPancreas:\nUnremarkable. No ductal dilation.\n \nSpleen:\nUnremarkable.\n \nAdrenals:\nNo mass.\n \nKidneys and ureters:\nThe kidneys enhance symmetrically. No hydronephrosis. No solid mass.\n \nStomach and bowel:\nNo obstruction. No bowel wall thickening. No CT evidence of acute diverticulitis.\n \nAppendix:\nThe appendix is within normal limits.\n \nPeritoneum:\nNo free fluid. No free air.\n \nLymph nodes:\nNo lymphadenopathy is evident.\n \nBones and soft tissues:\nNo acute osseous abnormality. The soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute finding. No occlusion or hemodynamically significant stenosis of the arterial system of the chest or abdomen. No aortic dissection. No aortic aneurysm."
+            }
+        ]
+    },
+    "30": {
+        "study_name": "CTA Chest, Abdomen, and Pelvis",
+        "templates": [
+            {
+                "id": 30,
+                "is_default": true,
+                "name": "CTA Chest, Abdomen, and Pelvis",
+                "owner": null,
+                "study_name": "CTA Chest, Abdomen, and Pelvis",
+                "template_data": "EXAM:\nCTA Chest with Intravenous Contrast\nCTA Abdomen and Pelvis with Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial CTA images of the chest, abdomen and pelvis with intravenous contrast. Three-dimensional MIP/volume rendered reformations were performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\nWith;\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nVASCULATURE:\n \nAorta:\nNo acute finding. No abdominal aortic aneurysm. No dissection.\n \nPulmonary arteries:\nThe pulmonary arteries are adequately opacified. No pulmonary embolism.\n \nGreat vessels of aortic arch:\nNo acute finding. No dissection. No arterial occlusion or significant stenosis.\n \nCeliac trunk:\nNo acute finding. No occlusion or significant stenosis.\n \nSuperior mesenteric artery:\nNo acute finding. No occlusion or significant stenosis.\n \nInferior mesenteric artery:\nNo acute finding. No occlusion or significant stenosis.\n \nRenal arteries:\nNo acute finding. No occlusion or significant stenosis.\n \nIliac arteries:\nNo acute finding. No occlusion or significant stenosis.\n \nCHEST:\n \nLungs:\nUnremarkable. No mass. No consolidation.\n \nPleural spaces:\nNo pleural effusion. No pneumothorax.\n \nHeart and mediastinum:\nNo cardiomegaly. No significant pericardial effusion.\n \nABDOMEN:\n \nLiver:\nUnremarkable. No mass.\n \nGallbladder and bile ducts:\nNo calcified stone. No ductal dilation.\n \nPancreas:\nUnremarkable. No ductal dilation.\n \nSpleen:\nUnremarkable.\n \nAdrenals:\nNo mass.\n \nKidneys and ureters:\nThe kidneys enhance symmetrically. No hydronephrosis. No solid mass.\n \nStomach and bowel:\nNo obstruction. No bowel wall thickening. No CT evidence of acute diverticulitis.\n \nAppendix:\nNo CT evidence for appendicitis.\n \nPELVIS:\n \nBladder:\nUnremarkable.\n \nReproductive:\nUnremarkable as visualized.\n \nPeritoneum:\nNo free fluid. No free air.\n \nLymph nodes:\nNo lymphadenopathy.\n \nBones and soft tissues:\nNo acute osseous abnormality. The soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute finding. No occlusion or hemodynamically significant stenosis of the arterial system of the chest, abdomen or pelvis. No aortic dissection. No aortic aneurysm."
+            }
+        ]
+    },
+    "31": {
+        "study_name": "CTA Chest, CT Abdomen and Pelvis",
+        "templates": [
+            {
+                "id": 31,
+                "is_default": true,
+                "name": "CTA Chest, CT Abdomen and Pelvis",
+                "owner": null,
+                "study_name": "CTA Chest, CT Abdomen and Pelvis",
+                "template_data": "EXAM:\nCTA Chest with Intravenous Contrast\nCT Abdomen and Pelvis with Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial CTA images of the chest, CT images of the abdomen and pelvis with intravenous contrast. Three-dimensional MIP/volume rendered reformations were performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\nWith;\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nCTA CHEST :\n \nPulmonary arteries:\nThe pulmonary arteries are adequately opacified. No pulmonary embolism.\n \nLungs:\nUnremarkable. No mass. No consolidation.\n \nPleural spaces:\nNo pleural effusion. No pneumothorax.\n \nHeart and mediastinum:\nNo cardiomegaly. No significant pericardial effusion.\n \nAorta:\nNo acute finding. No aortic aneurysm.\n \nCT ABDOMEN:\n \nLiver:\nUnremarkable. No mass.\n \nGallbladder and bile ducts:\nNo calcified stone. No ductal dilation.\n \nPancreas:\nUnremarkable. No ductal dilation.\n \nSpleen:\nUnremarkable.\n \nAdrenals:\nNo mass.\n \nKidneys and ureters:\nThe kidneys enhance symmetrically. No hydronephrosis. No solid mass.\n \nStomach and bowel:\nNo obstruction. No bowel wall thickening. No CT evidence of acute diverticulitis.\n \nAppendix:\nNo CT evidence for appendicitis.\n \nCT PELVIS:\n \nBladder:\nUnremarkable.\n \nReproductive:\nUnremarkable as visualized.\n \nPeritoneum:\nNo free fluid. No free air.\n \nLymph nodes:\nNo lymphadenopathy.\n \nBones and soft tissues:\nNo acute osseous abnormality. The soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo CT evidence of acute cardiopulmonary, abdominal or pelvic process."
+            }
+        ]
+    },
+    "32": {
+        "study_name": "CTA Head",
+        "templates": [
+            {
+                "id": 32,
+                "is_default": true,
+                "name": "CTA Head",
+                "owner": null,
+                "study_name": "CTA Head",
+                "template_data": "EXAM:\nCTA Head With Intravenous Contrast\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial CTA images of the head with intravenous contrast. MIP reconstructed images were created and reviewed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\nWith;\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nINTERNAL CAROTID ARTERIES\nThe intracranial ICAs are patent with no significant stenosis. No occlusion. No aneurysm.\n \nANTERIOR CEREBRAL ARTERIES\nNo significant stenosis. No occlusion. No aneurysm.\n \nMIDDLE CEREBRAL ARTERIES\nNo significant stenosis. No occlusion. No aneurysm.\n \nPOSTERIOR CEREBRAL ARTERIES\nNo significant stenosis. No occlusion. No aneurysm.\n \nBASILAR ARTERY\nNo significant stenosis. No occlusion. No aneurysm.\n \nVERTEBRAL ARTERIES\nNo significant stenosis. No occlusion. No aneurysm.\n \nSOFT TISSUES:\nNo acute finding. No masses or lymphadenopathy.\n \nBONES:\nNo acute osseous abnormality.\n \nIMPRESSION:\n \nNo evidence of significant stenosis, aneurysmal dilatation, or dissection involving the arteries of the head."
+            }
+        ]
+    },
+    "33": {
+        "study_name": "CTA Head and CT Head",
+        "templates": [
+            {
+                "id": 33,
+                "is_default": true,
+                "name": "CTA Head and CT Head",
+                "owner": null,
+                "study_name": "CTA Head and CT Head",
+                "template_data": "EXAM:\nCTA Head With Intravenous Contrast.\nCT Head without Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial CTA images of the head with intravenous contrast. Three-dimensional MIP/volume rendered reformations were performed. Axial computed tomography images of the head/brain performed without intravenous contrast. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\nWith;\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nCT HEAD:\n \nBRAIN:\nNo acute intraparenchymal hemorrhage. No mass Lesion. No CT evidence for acute territorial infarct. No midline shift or extra-axial collection.\n \nVENTRICLES:\nNo hydrocephalus.\n \nORBITS:\nThe orbits are unremarkable.\n \nSINUSES AND MASTOIDS:\nThe paranasal sinuses and mastoid air cells are clear\n \nCTA HEAD:\n \nINTERNAL CAROTID ARTERIES:\nThe intracranial ICAs are patent with no significant stenosis. No occlusion. No aneurysm.\n \nANTERIOR CEREBRAL ARTERIES:\nNo significant stenosis. No occlusion. No aneurysm.\n \nMIDDLE CEREBRAL ARTERIES:\nNo significant stenosis. No occlusion. No aneurysm.\n \nPOSTERIOR CEREBRAL ARTERIES:\nNo significant stenosis. No occlusion. No aneurysm.\n \nBASILAR ARTERY:\nNo significant stenosis. No occlusion. No aneurysm.\n \nVERTEBRAL ARTERIES:\nNo significant stenosis. No occlusion. No aneurysm.\n \nOTHER:\n \nSOFT TISSUES:\nNo acute finding. No masses or lymphadenopathy.\n \nBONES:\nNo acute osseous abnormality.\n \nIMPRESSION:\n \n1. No acute intracranial hemorrhage or ischemic change.\n2. No evidence of significant stenosis, aneurysmal dilatation, or dissection involving the arteries of the head."
+            }
+        ]
+    },
+    "34": {
+        "study_name": "CTA Head and Neck",
+        "templates": [
+            {
+                "id": 34,
+                "is_default": true,
+                "name": "CTA Head and Neck",
+                "owner": null,
+                "study_name": "CTA Head and Neck",
+                "template_data": "EXAM:\nCTA Head and Neck with Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial CTA images of the head and neck performed with intravenous contrast. Two-dimensional MIP and/or three-dimensional MIP and volume rendered reformations were performed.\nNote: Per PQRS, the description of internal carotid artery percent stenosis, including 0 percent or normal exam, is based on North American Symptomatic Carotid Endarterectomy Trial (NASCET) criteria. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\nWith;\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nCTA NECK:\n \nCOMMON CAROTID ARTERIES\nNo significant stenosis. No dissection or occlusion.\n \nINTERNAL CAROTID ARTERIES\nNo stenosis by NASCET criteria. No dissection or occlusion.\n \nVERTEBRAL ARTERIES\nNo significant stenosis. No dissection or occlusion.\n \nCTA HEAD:\n \nANTERIOR CEREBRAL ARTERIES:\nNo significant stenosis. No occlusion. No aneurysm.\n \nMIDDLE CEREBRAL ARTERIES:\nNo significant stenosis. No occlusion. No aneurysm.\n \nPOSTERIOR CEREBRAL ARTERIES:\nNo significant stenosis. No occlusion. No aneurysm.\n \nBASILAR ARTERY:\nNo significant stenosis. No occlusion. No aneurysm.\n \nOTHER:\n \nSOFT TISSUES:\nNo acute finding. No masses or lymphadenopathy.\n \nBONES:\nNo acute osseous abnormality.\n \nIMPRESSION:\n \nNo evidence of significant stenosis, aneurysmal dilatation, or dissection involving the arteries of the head and neck."
+            }
+        ]
+    },
+    "35": {
+        "study_name": "CTA Head and Neck  and CT Head",
+        "templates": [
+            {
+                "id": 35,
+                "is_default": true,
+                "name": "CTA Head and Neck  and CT Head",
+                "owner": null,
+                "study_name": "CTA Head and Neck  and CT Head",
+                "template_data": "EXAM:\nCTA Head and Neck with Intravenous Contrast.\nCT Head without Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial CTA images of the head and neck performed with intravenous contrast. MIP reconstructed images were created and reviewed.\nAxial computed tomography images of the head/brain performed without intravenous contrast.\nNote: Per PQRS, the description of internal carotid artery percent stenosis, including 0 percent or normal exam, is based on North American Symptomatic Carotid Endarterectomy Trial (NASCET) criteria. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\nWith;\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nCT HEAD:\n \nBRAIN:\nNo acute intraparenchymal hemorrhage. No mass lesion. No CT evidence for acute territorial infarct. No midline shift or extra-axial collection.\n \nVENTRICLES:\nNo hydrocephalus.\n \nORBITS:\nThe orbits are unremarkable.\n \nSINUSES AND MASTOIDS:\nThe paranasal sinuses and mastoid air cells are clear.\n \nCTA NECK:\n \nCOMMON CAROTID ARTERIES\nNo significant stenosis. No dissection or occlusion.\n \nINTERNAL CAROTID ARTERIES\nNo stenosis by NASCET criteria. No dissection or occlusion.\n \nVERTEBRAL ARTERIES\nNo significant stenosis. No dissection or occlusion.\n \nCTA HEAD:\n \nANTERIOR CEREBRAL ARTERIES\nNo significant stenosis. No occlusion. No aneurysm.\n \nMIDDLE CEREBRAL ARTERIES\nNo significant stenosis. No occlusion. No aneurysm.\n \nPOSTERIOR CEREBRAL ARTERIES\nNo significant stenosis. No occlusion. No aneurysm.\n \nBASILAR ARTERY\nNo significant stenosis. No occlusion. No aneurysm.\n \nOTHER:\n \nSOFT TISSUES\nNo acute finding. No masses or lymphadenopathy.\n \nBONES\nNo acute osseous abnormality.\n \nIMPRESSION:\n \n1. No acute intracranial hemorrhage or ischemic change.\n2. No evidence of significant stenosis, aneurysmal dilatation, or dissection involving the arteries of the head and neck."
+            }
+        ]
+    },
+    "36": {
+        "study_name": "CTA Lower Extremity",
+        "templates": [
+            {
+                "id": 36,
+                "is_default": true,
+                "name": "CTA Lower Extremity",
+                "owner": null,
+                "study_name": "CTA Lower Extremity",
+                "template_data": "EXAM: \nCTA [laterality] Lower Extremity\n\nCLINICAL HISTORY: \n[Patient's relevant clinical history]\n\nTECHNIQUE: \nContrast-enhanced computed tomography angiography of the lower extremity was performed with multiplanar reconstructions. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n\nCOMPARISON: \n[Comparative studies, if available]\n\nCONTRAST:\nWith;\n\nFINDINGS: \n\nARTERIAL: \nThe iliac, femoral, popliteal, anterior tibial, posterior tibial, and peroneal arteries are patent with no evidence of stenosis, occlusion, aneurysm or dissection. No abnormal arterial enhancement pattern is observed.\n\nVENOUS: \nThe iliac, femoral, popliteal, and tibial veins are patent with no evidence of thrombosis.\n\nBONES AND SOFT TISSUES: \nNo significant osseous or soft tissue abnormalities seen within the field of view.\n\nIMPRESSION: \nNormal CTA of the lower extremity with patent arterial and venous vasculature."
+            }
+        ]
+    },
+    "37": {
+        "study_name": "CTA Neck",
+        "templates": [
+            {
+                "id": 37,
+                "is_default": true,
+                "name": "CTA Neck",
+                "owner": null,
+                "study_name": "CTA Neck",
+                "template_data": "EXAM:\nCTA Neck with Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial CTA images of the neck performed with intravenous contrast. MIP reconstructed images were created and reviewed.\nNote: Per PQRS, the description of internal carotid artery percent stenosis, including 0 percent or normal exam, is based on North American Symptomatic Carotid Endarterectomy Trial (NASCET) criteria. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction.\n \nCONTRAST:\nWith;\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nCommon and internal carotid arteries:\nNo stenosis by NASCET criteria. No dissection or occlusion.\n \nExternal carotid arteries:\nPatent.\n \nVertebral arteries:\nNo significant stenosis. No dissection or occlusion.\n \nSoft tissues:\nNo acute finding. No masses or lymphadenopathy.\n \nBones:\nNo acute osseous abnormality.\n \nIMPRESSION:\n \nNo evidence of significant stenosis, aneurysmal dilatation, or dissection involving the arteries of the neck."
+            }
+        ]
+    },
+    "38": {
+        "study_name": "CTA Upper Extremity",
+        "templates": [
+            {
+                "id": 38,
+                "is_default": true,
+                "name": "CTA Upper Extremity",
+                "owner": null,
+                "study_name": "CTA Upper Extremity",
+                "template_data": "EXAM: \nCTA [laterality] Upper Extremity\n\nCLINICAL HISTORY: \n\nTECHNIQUE: \nContrast-enhanced computed tomography angiography of the upper extremity was performed with multiplanar reconstructions.\n\nCONTRAST:\nWith;\n\nCOMPARISON: \n\nFINDINGS:\n \nARTERIAL: \nThe axillary, brachial, radial and ulnar arteries are patent with no evidence of stenosis, occlusion, aneurysm or dissection. No abnormal arterial enhancement pattern is observed.\n\nVENOUS:\nThe axillary, brachial, cephalic, basilic and median cubital veins are patent with no evidence of thrombosis.\n\nBONES AND SOFT TISSUES:\nNo significant osseous or soft tissue abnormalities seen within the field of view. \n\nIMPRESSION: \nNormal CTA of the upper extremity with patent arterial and venous vasculature."
+            }
+        ]
+    },
+    "39": {
+        "study_name": "MR Abdomen",
+        "templates": [
+            {
+                "id": 39,
+                "is_default": true,
+                "name": "MR Abdomen",
+                "owner": null,
+                "study_name": "MR Abdomen",
+                "template_data": "EXAM:\nMR Abdomen [with or without] IV contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultisequence, multiplanar magnetic resonance images of the abdomen [with or without] intravenous contrast.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLOWER THORAX:\nNo pleural effusion.\n \nLIVER:\nUnremarkable.\n \nGALLBLADDER AND BILE DUCTS:\nNo stone. No ductal dilation.\n \nPANCREAS:\nUnremarkable. No ductal dilation.\n \nSPLEEN:\nUnremarkable.\n \nADRENALS:\nUnremarkable.\n \nKIDNEYS:\nUnremarkable. No hydronephrosis or mass.\n \nSTOMACH AND BOWEL:\nNo obstruction.\n \nLYMPH NODES:\nNo lymphadenopathy.\n \nVASCULATURE:\nNo abdominal aortic aneurysm.\n \nIMPRESSION:\n \nNo acute intra-abdominal abnormality."
+            }
+        ]
+    },
+    "40": {
+        "study_name": "MR Abdomen and Pelvis",
+        "templates": [
+            {
+                "id": 40,
+                "is_default": true,
+                "name": "MR Abdomen and Pelvis",
+                "owner": null,
+                "study_name": "MR Abdomen and Pelvis",
+                "template_data": "EXAM:\nMR Abdomen [with or without] IV contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultisequence, multiplanar magnetic resonance images of the abdomen and pelvis  [with or without] intravenous contrast.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLOWER THORAX:\nNo pleural effusion.\n \nLIVER:\nUnremarkable.\n \nGALLBLADDER AND BILE DUCTS:\nNo gallstone seen. No biliary ductal dilatation is evident.\n \nPANCREAS:\nUnremarkable. No ductal dilation.\n \nSPLEEN:\nUnremarkable.\n \nADRENALS:\nUnremarkable.\n \nKIDNEYS:\nThe kidneys appear within normal limits. No hydronephrosis or mass evident.\n \nSTOMACH AND BOWEL:\nLimited evaluation of the stomach and bowel demonstrates no acute process.\n \nBLADDER:\nUnremarkable. No stone.\n \nREPRODUCTIVE:\nUnremarkable as visualized.\n \nVASCULATURE:\nNo abdominal aortic aneurysm.\n \nLYMPH NODES:\nNo lymphadenopathy is evident.\n \nIMPRESSION:\n \nNo acute intra-abdominal or pelvic abnormality."
+            }
+        ]
+    },
+    "41": {
+        "study_name": "MR Bilateral Breasts",
+        "templates": [
+            {
+                "id": 41,
+                "is_default": true,
+                "name": "MR Bilateral Breasts",
+                "owner": null,
+                "study_name": "MR Bilateral Breasts",
+                "template_data": "EXAM:\nMR Bilateral Breasts [Without or with] Intravenous Contrast. MR CAD Breast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nBilateral breast magnetic resonance imaging was performed utilizing a dedicated breast coil. Routine imaging of the bilateral breasts with contrast including dynamic enhanced images. If breast implant(s) were present, silicone or water saturated images were also obtained. CAD was utilized in image evaluation.\n \nCONTRAST:\n[Without or with];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nRIGHT BREAST:\nThere is no morphologically suspicious lesion identified. No axillary adenopathy.\n \nLEFT BREAST:\nThere is no morphologically suspicious lesion identified. No axillary adenopathy.\n \nMISCELLANEOUS:\nNo incidental findings appreciated.\n \nIMPRESSION:\n \nNormal bilateral breasts."
+            }
+        ]
+    },
+    "42": {
+        "study_name": "MR Brain",
+        "templates": [
+            {
+                "id": 42,
+                "is_default": true,
+                "name": "MR Brain",
+                "owner": null,
+                "study_name": "MR Brain",
+                "template_data": "EXAM:\nMR Brain [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMagnetic resonance images of the brain [with or without] intravenous contrast in multiple planes.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBRAIN:\nNo restricted diffusion to indicate acute infarction. No intracranial mass or hemorrhage. No midline shift or extra-axial fluid collection.\nNo cerebellar tonsillar ectopia. No abnormal enhancement. The central arterial and venous flow voids are patent.\n \nVENTRICLES:\nNo hydrocephalus.\n \nORBITS:\nThe orbits are normal.\n \nSINUSES AND MASTOIDS:\nThe sinuses and mastoid air cells are clear.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nIMPRESSION:\n \nUnremarkable brain MRI."
+            }
+        ]
+    },
+    "43": {
+        "study_name": "MR Cervical Spine",
+        "templates": [
+            {
+                "id": 43,
+                "is_default": true,
+                "name": "MR Cervical Spine",
+                "owner": null,
+                "study_name": "MR Cervical Spine",
+                "template_data": "EXAM:\nMR [generic] Spine [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMagnetic resonance images of the [generic] spine [with or without]  intravenous contrast in multiple planes.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nVERTEBRAE:\nNo acute fracture or focal osseous lesion. Generalized marrow signal is unremarkable.\n \nALIGNMENT:\nBony alignment is anatomic.\n \nSPINAL CORD:\nNormal signal and contour.\n \nDISCS/DEGENERATIVE CHANGES:\nNo significant disc or facet degeneration.\nNo significant central canal or neural foraminal stenosis.\n \nPARASPINAL SOFT TISSUES:\nParavertebral soft tissues are unremarkable.\n \nIMPRESSION:\n \nUnremarkable [generic] spine."
+            }
+        ]
+    },
+    "44": {
+        "study_name": "MR Internal Auditory Canals",
+        "templates": [
+            {
+                "id": 44,
+                "is_default": true,
+                "name": "MR Internal Auditory Canals",
+                "owner": null,
+                "study_name": "MR Internal Auditory Canals",
+                "template_data": "EXAM:\nMR Internal Auditory Canals [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMagnetic resonance images of the internal auditory canals [with or without] intravenous contrast in multiple planes.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nINTERNAL AUDITORY CANALS:\nNo masses. The 7th and 8th cranial nerves are unremarkable. The internal auditory canals are patent. [No abnormal enhancement.\n\nCEREBELLOPONTINE ANGLE CISTERNS:\nNo mass or effacement. \n\nINNER EAR:\nNormal fluid signal within the cochlea, vestibule, and semicircular canals. \n\nBRAIN:\nThe visualized brain and brainstem are unremarkable. \n\nMIDDLE EAR AND MASTOIDS:\nThe visualized middle ear and mastoid air cells are clear. \n\nBONES:\nNo focal osseous lesion. \n\nIMPRESSION:\n\nUnremarkable internal auditory canal MRI."
+            }
+        ]
+    },
+    "45": {
+        "study_name": "MR Lower Extremity Arthrogram, Hip",
+        "templates": [
+            {
+                "id": 45,
+                "is_default": true,
+                "name": "MR Lower Extremity Arthrogram, Hip",
+                "owner": null,
+                "study_name": "MR Lower Extremity Arthrogram, Hip",
+                "template_data": "EXAM:\nMR [_laterality_] Lower Extremity Arthrogram [Without or With] Intravenous Contrast, Hip.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] hip following injection of dilute gadolinium into the joint space without intravenous contrast.\n \nCONTRAST:\n[Without or with];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nTENDONS:\n \nEXTENSORS/HAMSTRING:\nUnremarkable.\n \nABDUCTORS:\nUnremarkable.\n \nADDUCTORS:\nUnremarkable.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nMUSCLES:\nUnremarkable.\n \nFLUID:\nNo significant hip effusion.\n \nLABRUM:\nUnremarkable.\n \nCARTILAGE:\nUnremarkable.\n \nIMPRESSION:\n \nNormal [_laterality_] hip."
+            }
+        ]
+    },
+    "46": {
+        "study_name": "MR Lower Extremity Arthrogram, Knee",
+        "templates": [
+            {
+                "id": 46,
+                "is_default": true,
+                "name": "MR Lower Extremity Arthrogram, Knee",
+                "owner": null,
+                "study_name": "MR Lower Extremity Arthrogram, Knee",
+                "template_data": "EXAM:\nMR [_laterality_] Lower Extremity Arthrogram [Without or With] Intravenous Contrast, Knee.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] knee following injection of dilute gadolinium into the joint space without intravenous contrast.\n \nCONTRAST:\n[With or Without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLIGAMENTS:\n \nANTERIOR CRUCIATE:\nIntact.\n \nPOSTERIOR CRUCIATE:\nIntact.\n \nLATERAL COLLATERAL:\nIntact.\n \nMEDIAL COLLATERAL:\nIntact.\n \nTENDONS:\n \nQUADRICEPS:\nIntact.\n \nPATELLAR:\nIntact.\n \nLATERAL GASTROCNEMIUS:\nIntact.\n \nMEDIAL GASTROCNEMIUS:\nIntact.\n \nILIOTIBIAL BAND:\nIntact.\n \nPOPLITEUS:\nIntact.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nMUSCLES:\nUnremarkable.\n \nFLUID:\nNo significant effusion.\n \nCARTILAGE:\nUnremarkable.\n \nMENISCI:\nNo tear.\n \nRETINACULUM:\nNo tear.\n \nIMPRESSION:\nNormal [_laterality_] knee."
+            }
+        ]
+    },
+    "47": {
+        "study_name": "MR Lower Extremity Generic Bone",
+        "templates": [
+            {
+                "id": 47,
+                "is_default": true,
+                "name": "MR Lower Extremity Generic Bone",
+                "owner": null,
+                "study_name": "MR Lower Extremity Generic Bone",
+                "template_data": "EXAM:\nMR [_laterality_] Lower Extremity [with or without} Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] lower extremity [with or without] intravenous contrast.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nJOINTS:\nUnremarkable. No dislocation or significant effusion.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nIMPRESSION:\n \nNormal [_laterality_] lower extremity and surrounding soft tissues."
+            }
+        ]
+    },
+    "48": {
+        "study_name": "MR Lower Extremity, Ankle",
+        "templates": [
+            {
+                "id": 48,
+                "is_default": true,
+                "name": "MR Lower Extremity, Ankle",
+                "owner": null,
+                "study_name": "MR Lower Extremity, Ankle",
+                "template_data": "EXAM:\nMR [_laterality_] Lower Extremity [With or without] Intravenous Contrast, Ankle.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] ankle with intravenous contrast.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLIGAMENTS:\n \nANTERIOR TALOFIBULAR:\nUnremarkable.\n \nPOSTERIOR TALOFIBULAR:\nUnremarkable.\n \nANTERIOR TIBIOFIBULAR:\nUnremarkable.\n \nPOSTERIOR TIBIOFIBULAR:\nUnremarkable.\n \nCALCANEOFIBULAR:\nUnremarkable.\n \nDELTOID:\nUnremarkable.\n \nSPRING:\nUnremarkable.\n \nLISFRANC:\nUnremarkable.\n \nTENDONS:\n \nACHILLES:\nUnremarkable.\n \nPOSTERIOR TIBIAL:\nUnremarkable.\n \nFLEXOR:\nUnremarkable.\n \nEXTENSOR:\nUnremarkable.\n \nPERONEAL:\nUnremarkable.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nMUSCLES:\nUnremarkable.\n \nFLUID:\nNo joint effusion.\n \nSINUS TARSI:\nUnremarkable.\n \nTARSAL TUNNEL:\nUnremarkable.\n \nPLANTAR FASCIA:\nUnremarkable.\n \nCARTILAGE:\nUnremarkable.\n \nIMPRESSION:\n \nNormal [_laterality_] ankle."
+            }
+        ]
+    },
+    "49": {
+        "study_name": "MR Lower Extremity, Foot",
+        "templates": [
+            {
+                "id": 49,
+                "is_default": true,
+                "name": "MR Lower Extremity, Foot",
+                "owner": null,
+                "study_name": "MR Lower Extremity, Foot",
+                "template_data": "EXAM:\nMR [_laterality_] Lower Extremity [Without or with] Intravenous Contrast, Foot.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] foot [without or with] intravenous contrast.\n \nCONTRAST:\n[Without or with];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLIGAMENTS:\n \nMEDIAL COLLATERAL:\nUnremarkable.\n \nLATERAL COLLATERAL:\nUnremarkable.\n \nLISFRANC:\nUnremarkable.\n \nTENDONS:\n \nFLEXOR:\nUnremarkable.\n \nEXTENSOR:\nUnremarkable.\n \nPERONEAL:\nUnremarkable.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nMUSCLES:\nUnremarkable.\n \nFLUID:\nUnremarkable. No joint effusion.\n \nSINUS TARSI:\nUnremarkable.\n \nTARSAL TUNNEL:\nUnremarkable.\n \nPLANTAR FASCIA:\nUnremarkable.\n \nCARTILAGE:\nUnremarkable.\n \nIMPRESSION:\n \nNormal [_laterality_] foot."
+            }
+        ]
+    },
+    "50": {
+        "study_name": "MR Lower Extremity, Hip",
+        "templates": [
+            {
+                "id": 50,
+                "is_default": true,
+                "name": "MR Lower Extremity, Hip",
+                "owner": null,
+                "study_name": "MR Lower Extremity, Hip",
+                "template_data": "EXAM:\nMR [_laterality_] Lower Extremity [Without or with] Intravenous Contrast, Hip.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] hip [without or with] intravenous contrast.\n \nCONTRAST:\n[Without or wth];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nTENDONS:\n \nFLEXORS:\nUnremarkable.\n \nEXTENSORS/HAMSTRING:\nUnremarkable.\n \nABDUCTORS:\nUnremarkable.\n \nADDUCTORS:\nUnremarkable.\n \nROTATORS:\nUnremarkable.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nMUSCLES:\nUnremarkable.\n \nFLUID:\nNo significant hip effusion.\n \nLABRUM:\nUnremarkable.\n \nCARTILAGE:\nUnremarkable.\n \nIMPRESSION:\n \nNormal [_laterality_] hip."
+            }
+        ]
+    },
+    "51": {
+        "study_name": "MR Lower Extremity, Knee",
+        "templates": [
+            {
+                "id": 51,
+                "is_default": true,
+                "name": "MR Lower Extremity, Knee",
+                "owner": null,
+                "study_name": "MR Lower Extremity, Knee",
+                "template_data": "EXAM:\nMR [_laterality_] Lower Extremity [Without or with] Intravenous Contrast, Knee.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] knee [without or with] intravenous contrast.\n \nCONTRAST:\nWithout\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLIGAMENTS:\n \nANTERIOR CRUCIATE:\nIntact.\n \nPOSTERIOR CRUCIATE:\nIntact.\n \nLATERAL COLLATERAL:\nIntact.\n \nMEDIAL COLLATERAL:\nIntact.\n \nTENDONS:\n \nQUADRICEPS:\nIntact.\n \nPATELLAR:\nIntact.\n \nLATERAL GASTROCNEMIUS:\nIntact.\n \nMEDIAL GASTROCNEMIUS:\nIntact.\n \nILIOTIBIAL BAND:\nIntact.\n \nPOPLITEUS:\nIntact.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nMUSCLES:\nUnremarkable.\n \nFLUID:\nNo joint effusion.\n \nCARTILAGE:\nUnremarkable.\n \nMENISCI:\nNo tear.\n \nRETINACULUM:\nNo tear.\n \nIMPRESSION:\n \nUnremarkable [_laterality_] knee MRI."
+            }
+        ]
+    },
+    "52": {
+        "study_name": "MR Lumbar Spine",
+        "templates": [
+            {
+                "id": 52,
+                "is_default": true,
+                "name": "MR Lumbar Spine",
+                "owner": null,
+                "study_name": "MR Lumbar Spine",
+                "template_data": "EXAM:\nMR [Generic] Spine [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMagnetic resonance images of the [generic] spine [with or without] intravenous contrast in multiple planes.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nVERTEBRAE:\nNo acute fracture or focal osseous lesion. Generalized marrow signal is unremarkable.\n \nALIGNMENT:\nBony alignment is anatomic.\n \nSPINAL CORD:\nNormal signal and contour.\n \nDISCS/DEGENERATIVE CHANGES:\n[facet changes, ligamentous changes, etc all go in this section]\n\nL1-L2: No central canal or foraminal stenosis. Unremarkable intervertebral disc. \n\nL2-L3: No central canal or foraminal stenosis. Unremarkable intervertebral disc. \n\nL3-L4: No central canal or foraminal stenosis. Unremarkable intervertebral disc. \n\nL4-L5: No central canal or foraminal stenosis. Unremarkable intervertebral disc. \n\nL5-S1: No central canal or foraminal stenosis. Unremarkable intervertebral disc. \n \nPARASPINAL SOFT TISSUES:\nParavertebral soft tissues are unremarkable.\n \nIMPRESSION:\n \nUnremarkable cervical spine."
+            }
+        ]
+    },
+    "53": {
+        "study_name": "MR Neck",
+        "templates": [
+            {
+                "id": 53,
+                "is_default": true,
+                "name": "MR Neck",
+                "owner": null,
+                "study_name": "MR Neck",
+                "template_data": "EXAM:\nMR Neck [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the neck [with or without] intravenous contrast.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nNASOPHARYNX:\nUnremarkable.\n \nOROPHARYNX:\nUnremarkable.\n \nHYPOPHARYNX:\nUnremarkable.\n \nLARYNX:\nUnremarkable. Normal epiglottis.\n \nRETROPHARYNGEAL SPACE:\nUnremarkable.\n \nSALIVARY GLANDS:\nThe parotid and submandibular glands are unremarkable.\n \nLYMPH NODES:\nNo lymphadenopathy.\n \nTHYROID:\nUnremarkable. No nodule.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nIMPRESSION:\n \nNo acute findings within the soft tissues of the neck."
+            }
+        ]
+    },
+    "54": {
+        "study_name": "MR Orbits",
+        "templates": [
+            {
+                "id": 54,
+                "is_default": true,
+                "name": "MR Orbits",
+                "owner": null,
+                "study_name": "MR Orbits",
+                "template_data": "EXAM:\nMR Orbits [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the orbits [with or without] intravenous contrast.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nORBITS:\nThe globes are intact. No intra- or extraconal lesion.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nSINUSES:\nUnremarkable.\n \nEXTRACRANIAL SOFT TISSUES:\nUnremarkable.\n \nIMPRESSION:\n \nUnremarkable orbits."
+            }
+        ]
+    },
+    "55": {
+        "study_name": "MR Pelvis",
+        "templates": [
+            {
+                "id": 55,
+                "is_default": true,
+                "name": "MR Pelvis",
+                "owner": null,
+                "study_name": "MR Pelvis",
+                "template_data": "EXAM:\nMR Pelvis [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the pelvis [with or without] intravenous contrast. .\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBOWEL:\nGrossly unremarkable. No obstruction.\n \nBLADDER:\nUnremarkable. No stone.\n \nREPRODUCTIVE:\nUnremarkable as visualized.\n \nLYMPH NODES:\nNo lymphadenopathy.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nIMPRESSION:\n \nUnremarkable MRI of the pelvis."
+            }
+        ]
+    },
+    "56": {
+        "study_name": "MR Pituitary Gland/Sella Turica",
+        "templates": [
+            {
+                "id": 56,
+                "is_default": true,
+                "name": "MR Pituitary Gland/Sella Turica",
+                "owner": null,
+                "study_name": "MR Pituitary Gland/Sella Turica",
+                "template_data": "EXAM:\nMR Pituitary Gland/Sella Turcica [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMagnetic resonance images of the sella turcica and pituitary gland [with or without] intravenous contrast in multiple planes.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nSELLA TURCICA:\nThe bony sella is intact. The pituitary gland is normal in size and contour. The infundibulum is midline. No micro- or macroadenoma appreciated.\n \nOPTIC CHIASM:\nUnremarkable.\n \nCAVERNOUS SINUSES:\nThe cavernous sinuses are patent. No mass or thrombosis.\n \nSUPRASELLAR SINUS:\nNo suprasellar mass.\n \nSINUSES AND MASTOIDS:\nThe visualized sinuses and mastoid air cells are clear.\n \nBONES:\nNo focal osseous lesion.\n \nIMPRESSION:\n \nUnremarkable pituitary/sella turcica MRI."
+            }
+        ]
+    },
+    "57": {
+        "study_name": "MR Thoracic Spine",
+        "templates": [
+            {
+                "id": 57,
+                "is_default": true,
+                "name": "MR Thoracic Spine",
+                "owner": null,
+                "study_name": "MR Thoracic Spine",
+                "template_data": "EXAM:\nMR [Generic] Spine [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMagnetic resonance images of the [generic] spine [with or without] intravenous contrast in multiple planes.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nVERTEBRAE:\nNo acute fracture or focal osseous lesion. Generalized marrow signal is unremarkable.\n \nALIGNMENT:\nBony alignment is anatomic.\n \nSPINAL CORD:\nNormal signal and contour.\n \nDISCS/DEGENERATIVE CHANGES:\nNo significant disc or facet degeneration.\nNo significant central canal or neural foraminal stenosis.\n \nPARASPINAL SOFT TISSUES:\nParavertebral soft tissues are unremarkable.\n \nIMPRESSION:\n \nUnremarkable cervical spine."
+            }
+        ]
+    },
+    "58": {
+        "study_name": "MR Upper Extremity Generic Bone",
+        "templates": [
+            {
+                "id": 58,
+                "is_default": true,
+                "name": "MR Upper Extremity Generic Bone",
+                "owner": null,
+                "study_name": "MR Upper Extremity Generic Bone",
+                "template_data": "EXAM:\nMR [_laterality_] Upper Extremity [with or without} Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] upper extremity [with or without] intravenous contrast.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nJOINTS:\nUnremarkable. No dislocation or significant effusion.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nIMPRESSION:\n \nNormal [_laterality_] upper extremity and surrounding soft tissues."
+            }
+        ]
+    },
+    "59": {
+        "study_name": "MR Upper Extremity, Elbow",
+        "templates": [
+            {
+                "id": 59,
+                "is_default": true,
+                "name": "MR Upper Extremity, Elbow",
+                "owner": null,
+                "study_name": "MR Upper Extremity, Elbow",
+                "template_data": "EXAM:\nMR [_laterality_] Upper Extremity [With or without] Intravenous Contrast, Elbow.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] elbow [with or without] intravenous contrast.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLIGAMENTS:\n \nMEDIAL COLLATERAL:\nUnremarkable.\n \nLATERAL COLLATERAL:\nUnremarkable.\n \nANNULAR:\nUnremarkable.\n \nTENDONS:\n \nBICEPS:\nUnremarkable.\n \nBRACHIALIS:\nUnremarkable.\n \nTRICEPS:\nUnremarkable. No tear.\n \nCOMMON FLEXOR:\nUnremarkable.\n \nCOMMON EXTENSOR:\nUnremarkable.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nMUSCLES:\nUnremarkable.\n \nFLUID:\nNo joint effusion.\n \nCARTILAGE:\nUnremarkable.\n \nIMPRESSION:\n \nNormal [_laterality_] elbow."
+            }
+        ]
+    },
+    "60": {
+        "study_name": "MR Upper Extremity, Hand",
+        "templates": [
+            {
+                "id": 60,
+                "is_default": true,
+                "name": "MR Upper Extremity, Hand",
+                "owner": null,
+                "study_name": "MR Upper Extremity, Hand",
+                "template_data": "EXAM:\nMR [_laterality_] Upper Extremity [with or without]  Intravenous Contrast, Wrist.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] wrist [with or without]  intravenous contrast.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLIGAMENTS:\n \nScapholunate:\nUnremarkable.\n \nLunotriquetral:\nUnremarkable.\n \nTENDONS:\n \nFlexor compartments:\nUnremarkable.\n \nExtensor compartments:\nUnremarkable.\n \nNERVES:\n \nMedian:\nUnremarkable.\n \nUlnar:\nUnremarkable.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nMUSCLES:\nUnremarkable.\n \nJOINTS:\nNo subluxation or effusion.\n \nCARTILAGE:\nUnremarkable.\n \nTRIANGULAR FIBROCARTILAGE:\nUnremarkable.\n \nIMPRESSION:\n \nUnremarkable [_laterality_] wrist MRI."
+            }
+        ]
+    },
+    "61": {
+        "study_name": "MR Upper Extremity, Shoulder",
+        "templates": [
+            {
+                "id": 61,
+                "is_default": true,
+                "name": "MR Upper Extremity, Shoulder",
+                "owner": null,
+                "study_name": "MR Upper Extremity, Shoulder",
+                "template_data": "EXAM:\nMR [_laterality_] Upper Extremity [Without or with] Intravenous Contrast, Shoulder.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] shoulder [without or without] intravenous contrast.\n \nCONTRAST:\n[Without or with];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nTENDONS:\n \nSUPRASPINATUS:\nUnremarkable.\n \nINFRASPINATUS:\nUnremarkable.\n \nSUBSCAPULARIS:\nUnremarkable.\n \nTERES MINOR:\nUnremarkable.\n \nBICEPS BRACHII, LONG HEAD:\nUnremarkable.\n \nLIGAMENTS:\n \nGLENOHUMERAL:\nUnremarkable.\n \nJOINTS:\n \nGLENOHUMERAL JOINT:\nUnremarkable. No effusion. The labrum is intact.\n \nACROMIOCLAVICULAR JOINT:\nUnremarkable. No significant osteophytes.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nMUSCLES:\nUnremarkable.\n \nIMPRESSION:\n \nUnremarkable [_laterality_] shoulder MRI."
+            }
+        ]
+    },
+    "62": {
+        "study_name": "MR Upper Extremity, Wrist",
+        "templates": [
+            {
+                "id": 62,
+                "is_default": true,
+                "name": "MR Upper Extremity, Wrist",
+                "owner": null,
+                "study_name": "MR Upper Extremity, Wrist",
+                "template_data": "EXAM:\nMR [_laterality_] Upper Extremity [with or without]  Intravenous Contrast, Wrist.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMultiplanar magnetic resonance images of the [_laterality_] wrist [with or without]  intravenous contrast.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLIGAMENTS:\n \nScapholunate:\nUnremarkable.\n \nLunotriquetral:\nUnremarkable.\n \nTENDONS:\n \nFlexor compartments:\nUnremarkable.\n \nExtensor compartments:\nUnremarkable.\n \nNERVES:\n \nMedian:\nUnremarkable.\n \nUlnar:\nUnremarkable.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nMUSCLES:\nUnremarkable.\n \nJOINTS:\nNo subluxation or effusion.\n \nCARTILAGE:\nUnremarkable.\n \nTRIANGULAR FIBROCARTILAGE:\nUnremarkable.\n \nIMPRESSION:\n \nUnremarkable [_laterality_] wrist MRI."
+            }
+        ]
+    },
+    "63": {
+        "study_name": "MRA Abdomen",
+        "templates": [
+            {
+                "id": 63,
+                "is_default": true,
+                "name": "MRA Abdomen",
+                "owner": null,
+                "study_name": "MRA Abdomen",
+                "template_data": "EXAM:\nMRA Abdomen [Without or with] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial MRA images of the abdomen and pelvis [without or with] intravenous contrast. Three-dimensional MIP reformations performed.\n \nCONTRAST:\n[Without or with];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nAORTA:\nNo significant stenosis or occlusion. No abdominal aortic aneurysm. No dissection.\n \nCELIAC TRUNK:\nNo significant stenosis or occlusion.\n \nSUPERIOR MESENTERIC ARTERY:\nNo significant stenosis or occlusion.\n \nINFERIOR MESENTERIC ARTERY:\nNo significant stenosis or occlusion.\n \nRENAL ARTERIES:\nNo significant stenosis or occlusion.\n \nMISCELLANEOUS:\nNone.\n \nIMPRESSION:\n \nUnremarkable MRA of the abdomen."
+            }
+        ]
+    },
+    "64": {
+        "study_name": "MRA Abdomen and Pelvis",
+        "templates": [
+            {
+                "id": 64,
+                "is_default": true,
+                "name": "MRA Abdomen and Pelvis",
+                "owner": null,
+                "study_name": "MRA Abdomen and Pelvis",
+                "template_data": "EXAM:\nMRA Abdomen and Pelvis [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial MRA images of the abdomen and pelvis [with or without] intravenous contrast. Three-dimensional MIP reformations performed.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nAORTA:\nNo significant stenosis or occlusion. No abdominal aortic aneurysm. No dissection.\n \nCELIAC TRUNK:\nNo significant stenosis or occlusion.\n \nSUPERIOR MESENTERIC ARTERY:\nNo significant stenosis or occlusion.\n \nINFERIOR MESENTERIC ARTERY:\nNo significant stenosis or occlusion.\n \nRENAL ARTERIES:\nNo significant stenosis or occlusion.\n \nILIAC ARTERIES:\nNo significant stenosis or occlusion.\n \nIMPRESSION:\n \nUnremarkable MRA of the abdomen and pelvis."
+            }
+        ]
+    },
+    "65": {
+        "study_name": "MRA Abdomen, Pelvis, and Lower Extremities",
+        "templates": [
+            {
+                "id": 65,
+                "is_default": true,
+                "name": "MRA Abdomen, Pelvis, and Lower Extremities",
+                "owner": null,
+                "study_name": "MRA Abdomen, Pelvis, and Lower Extremities",
+                "template_data": "EXAM:\nMRA Abdomen, Pelvis, and Lower Extremities [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial MRA images of the abdomen, pelvis, and lower extremities [with or without] intravenous contrast. Three-dimensional MIP reformations performed.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nAORTA:\nNo significant stenosis. No occlusion. No abdominal aortic aneurysm or dissection.\n \nCELIAC TRUNK:\nNo significant stenosis or occlusion.\n \nSUPERIOR MESENTERIC ARTERY:\nNo significant stenosis or occlusion.\n \nINFERIOR MESENTERIC ARTERY:\nNo significant stenosis or occlusion.\n \nRENAL ARTERIES:\nNo significant stenosis or occlusion.\n \nRIGHT ILIAC ARTERIES:\nNo significant stenosis or occlusion.\n \nRIGHT COMMON FEMORAL ARTERY:\nNo occlusion or significant stenosis.\n \nRIGHT SUPERFICIAL FEMORAL ARTERY:\nNo occlusion or significant stenosis.\n \nRIGHT POPLITEAL ARTERY:\nNo occlusion or significant stenosis.\n \nRIGHT CALF ARTERIES:\nNo occlusion or significant stenosis.\n \nLEFT ILIAC ARTERIES:\nNo occlusion or significant stenosis.\n \nLEFT COMMON FEMORAL ARTERY:\nNo occlusion or significant stenosis.\n \nLEFT SUPERFICIAL FEMORAL ARTERY:\nNo occlusion or significant stenosis.\n \nLEFT POPLITEAL ARTERY:\nNo occlusion or significant stenosis.\n \nLEFT CALF ARTERIES:\nNo occlusion or significant stenosis.\n \nIMPRESSION:\n \nUnremarkable MRA of the abdomen, pelvis, and lower extremities."
+            }
+        ]
+    },
+    "66": {
+        "study_name": "MRA Lower Extremities",
+        "templates": [
+            {
+                "id": 66,
+                "is_default": true,
+                "name": "MRA Lower Extremities",
+                "owner": null,
+                "study_name": "MRA Lower Extremities",
+                "template_data": "EXAM:\nMRA of the Lower Extremities [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAxial MRA images of the lower extremities [with or without] intravenous contrast. Three-dimensional MIP reformations performed.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nRIGHT ILIAC ARTERIES:\nNo significant stenosis or occlusion.\n \nRIGHT COMMON FEMORAL ARTERY:\nNo occlusion or significant stenosis.\n \nRIGHT SUPERFICIAL FEMORAL ARTERY:\nNo occlusion or significant stenosis.\n \nRIGHT POPLITEAL ARTERY:\nNo occlusion or significant stenosis.\n \nRIGHT CALF ARTERIES:\nNo occlusion or significant stenosis.\n \nLEFT ILIAC ARTERIES:\nNo occlusion or significant stenosis.\n \nLEFT COMMON FEMORAL ARTERY:\nNo occlusion or significant stenosis.\n \nLEFT SUPERFICIAL FEMORAL ARTERY:\nNo occlusion or significant stenosis.\n \nLEFT POPLITEAL ARTERY:\nNo occlusion or significant stenosis.\n \nLEFT CALF ARTERIES:\nNo occlusion or significant stenosis.\n \nIMPRESSION:\n \nUnremarkable MRA of the lower extremities."
+            }
+        ]
+    },
+    "67": {
+        "study_name": "MRA of the Head",
+        "templates": [
+            {
+                "id": 67,
+                "is_default": true,
+                "name": "MRA of the Head",
+                "owner": null,
+                "study_name": "MRA of the Head",
+                "template_data": "EXAM:\nMR Angiography Head [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMagnetic resonance angiography images of the head [with or without] intravenous contrast. Three-dimensional MIP reformations performed.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nINTERNAL CAROTID ARTERIES:\nNo significant stenosis. No aneurysm or AVM.\n \nANTERIOR CEREBRAL ARTERIES:\nNo significant stenosis. No aneurysm or AVM.\n \nMIDDLE CEREBRAL ARTERIES:\nNo significant stenosis. No aneurysm or AVM.\n \nPOSTERIOR CEREBRAL ARTERIES:\nNo significant stenosis. No aneurysm or AVM.\n \nBASILAR ARTERY:\nNo significant stenosis. No aneurysm or AVM.\n \nVERTEBRAL ARTERIES:\nNo significant stenosis. No aneurysm or AVM.\n \nIMPRESSION:\nNo evidence of significant stenosis, aneurysmal dilatation, or dissection involving the arteries of the head."
+            }
+        ]
+    },
+    "68": {
+        "study_name": "MRA of the Neck",
+        "templates": [
+            {
+                "id": 68,
+                "is_default": true,
+                "name": "MRA of the Neck",
+                "owner": null,
+                "study_name": "MRA of the Neck",
+                "template_data": "EXAM:\nMRA Neck [with or without] Intravenous Contrast.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nMagnetic resonance angiography images of the neck [with or without] intravenous contrast. Three-dimensional MIP reformations performed.\nNote: Per PQRS, the description of internal carotid artery percent stenosis, including 0 percent or normal exam, is based on North American Symptomatic Carotid Endarterectomy Trial (NASCET) criteria.\n \nCONTRAST:\n[With or without];\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nINTERNAL CAROTID ARTERIES:\nNo significant stenosis based on NASCET criteria.\n \nCOMMON CAROTID ARTERIES:\nNo significant stenosis. No dissection.\n \nEXTERNAL CAROTID ARTERIES:\nNo occlusion or dissection.\n \nVERTEBRAL ARTERIES:\nNo significant stenosis. No dissection.\n \nBASILAR ARTERY:\nNo significant stenosis. No dissection.\n \nSOFT TISSUES\nUnremarkable as visualized.\n \nIMPRESSION:\nNo evidence of significant stenosis, aneurysmal dilatation, or dissection involving the arteries of the neck."
+            }
+        ]
+    },
+    "69": {
+        "study_name": "MRV Head",
+        "templates": [
+            {
+                "id": 69,
+                "is_default": true,
+                "name": "MRV Head",
+                "owner": null,
+                "study_name": "MRV Head",
+                "template_data": "EXAM:\nMR Venography Head with Intravenous Contrast. \n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nMagnetic resonance venography images of the head with intravenous contrast. Three-dimensional MIP reformations performed. \n\nCONTRAST:\nWith;  \n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nSUPERIOR SAGITTAL SINUS:\nPatent. \n\nSTRAIGHT SINUS:\nPatent. \n\nTRANSVERSE SINUSES:\nPatent. \n\nSIGMOID SINUSES:\nPatent. \n\nINTERNAL JUGULAR VEINS:\nUnremarkable as visualized. \n\nINTERNAL CEREBRAL AND CORTICAL VEINS:\nUnremarkable as visualized. \n\nMISCELLANEOUS:\nNone. \n\nIMPRESSION:\n\nUnremarkable MRV of the brain."
+            }
+        ]
+    },
+    "70": {
+        "study_name": "NM Bone Scan",
+        "templates": [
+            {
+                "id": 70,
+                "is_default": true,
+                "name": "NM Bone Scan",
+                "owner": null,
+                "study_name": "NM Bone Scan",
+                "template_data": "EXAM:\nNM Bone Scan.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nFrontal images of the whole body were obtained following the intravenous administration of radiopharmaceutical.\nPer PQRS, this bone scan was compared with all other relevant prior exams regardless of modality. See the Comparisons section for documentation of relevant prior exams.\n \nRADIOPHARMACEUTICAL:\n[_ _]\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nSPINE:\nNo abnormal increased or decreased uptake.\n \nRIBS:\nNo abnormal uptake.\n \nLONG BONES:\nNo abnormal uptake.\n \nPELVIS:\nNo focal increased or decreased uptake.\n \nJOINTS:\nNo focal increased or decreased uptake.\n \nSKULL/FACIAL BONES:\nNo focal increased or decreased uptake.\n \nRENAL/BLADDER:\nNormal physiologic excretion.\n \nIMPRESSION:\n \nNo abnormal uptake noted."
+            }
+        ]
+    },
+    "71": {
+        "study_name": "NM Cerebral Perfusion Scan",
+        "templates": [
+            {
+                "id": 71,
+                "is_default": true,
+                "name": "NM Cerebral Perfusion Scan",
+                "owner": null,
+                "study_name": "NM Cerebral Perfusion Scan",
+                "template_data": "EXAM:\nNM Cerebral Perfusion Scan.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nPlanar images of the brain were initiated prior to rapid intravenous bolus of the radiotracer.\n \nRADIOPHARMACEUTICAL:\n[_ _]\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nHEAD AND NECK:\nRadiotracer activity is visualized within the carotid arteries to the level of the skull base. No visualization of the major intracranial vasculature to suggest blood flow.\n \nEXTRACRANIAL SOFT TISSUES:\nProminent uptake is noted in the facial soft tissues.\n \nIMPRESSION:\n \nNo intracranial blood flow visualized. Findings compatible with brain death in the appropriate clinical setting."
+            }
+        ]
+    },
+    "72": {
+        "study_name": "NM GI Bleeding Scan",
+        "templates": [
+            {
+                "id": 72,
+                "is_default": true,
+                "name": "NM GI Bleeding Scan",
+                "owner": null,
+                "study_name": "NM GI Bleeding Scan",
+                "template_data": "EXAM:\nNM GI Bleeding Scan.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nDynamic anterior images of the abdomen and pelvis were obtained during the time of radio-labeled autologous red blood cells. Images were acquired for 60 minutes.\n \nRADIOPHARMACEUTICAL:\n[_ _]\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nSTOMACH AND BOWEL:\nNo focal area of abnormally increased radiotracer meet criteria for active GI bleeding.\n \nOTHER VISCERA:\nPhysiologic activity in the liver, vasculature, and bladder noted.\n \nIMPRESSION:\n \nNo active GI bleeding localized."
+            }
+        ]
+    },
+    "73": {
+        "study_name": "NM Hepatobiliary Scan",
+        "templates": [
+            {
+                "id": 73,
+                "is_default": true,
+                "name": "NM Hepatobiliary Scan",
+                "owner": null,
+                "study_name": "NM Hepatobiliary Scan",
+                "template_data": "EXAM:\nNM Hepatobiliary Scan.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nDynamic images of the abdomen and pelvis were obtained in the anterior projection for 1 hour after intravenous administration of radiopharmaceutical. A decubitus planar image was also obtained.\n \nRADIOPHARMACEUTICAL:\n[_ _]\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLIVER:\nPrompt, homogenous radiotracer uptake within the liver is present.\n \nBILE DUCTS:\nNormal clearance of radiotracer and concentration of activity into the intrahepatic and extrahepatic bile ducts.\n \nGALLBLADDER:\nNormal gallbladder uptake noted.\n \nSTOMACH AND BOWEL:\nLinear areas of activity likely represent excretion into small bowel.\n \nPERITONEUM:\nNo focal area of abnormal accumulation identified.\n \nIMPRESSION:\n \nUnremarkable hepatobiliary nuclear medicine scan."
+            }
+        ]
+    },
+    "74": {
+        "study_name": "NM Lung Perfusion  ONLY Scan",
+        "templates": [
+            {
+                "id": 74,
+                "is_default": true,
+                "name": "NM Lung Perfusion  ONLY Scan",
+                "owner": null,
+                "study_name": "NM Lung Perfusion  ONLY Scan",
+                "template_data": "EXAM:\nNM Lung Perfusion Scan.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nRadiolabeled MAA was administered intravenously and planar images of the lungs were obtained in multiple projections.\n \nRADIOPHARMACEUTICAL:\n[_ _]\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nPERFUSION:\nNo segmental perfusion defect.\n \nIMPRESSION:\n \nNo perfusion defects to indicate pulmonary emboli."
+            }
+        ]
+    },
+    "75": {
+        "study_name": "NM Lung Perfusion and Ventilation Scan",
+        "templates": [
+            {
+                "id": 75,
+                "is_default": true,
+                "name": "NM Lung Perfusion and Ventilation Scan",
+                "owner": null,
+                "study_name": "NM Lung Perfusion and Ventilation Scan",
+                "template_data": "EXAM:\nNM Lung Perfusion and Ventilation Scan.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nVentilation images of the lungs were obtained after inhalation of the radiopharmceutical. Then, radiolabeled MAA was administered intravenously and planar images of the lungs were obtained in multiple projections.\n \nRADIOPHARMACEUTICAL:\nVentilation: [_ _]\nPerfusion: [_ _]\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nVENTILATION:\nNo segmental ventilation defect.\n \nPERFUSION:\nNo segmental perfusion defect.\n \nIMPRESSION:\n \nNormal VQ scan based on modified PIOPED criteria."
+            }
+        ]
+    },
+    "76": {
+        "study_name": "NM Myocardial Perfusion Scan",
+        "templates": [
+            {
+                "id": 76,
+                "is_default": true,
+                "name": "NM Myocardial Perfusion Scan",
+                "owner": null,
+                "study_name": "NM Myocardial Perfusion Scan",
+                "template_data": "EXAM:\nNM Myocardial Perfusion Scan.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nStress and rest SPECT images of the heart were acquired after intravenous infusion of radiotracer. Polar map and planar images were assessed. Gating was performed on the stress and rest portion of the study for assessment of LVEF.\n \nRADIOPHARMACEUTICAL:\nRest: [_ _]\nStress: [_ _]\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\nThe overall scan quality was good.\n \nSTRESS/REST:\nNo significant areas of decreased activity appreciated on either the stress or rest images. No scintigraphic evidence for ischemia or infarct.\n \nCINE IMAGES:\nWall motion and thickening were normal.\n \nLVEF:\n[_ _] %\n \nIMPRESSION:\n \n1. No fixed or reversible defects to suggest ischemia or infarct.\n2. LVEF is normal."
+            }
+        ]
+    },
+    "77": {
+        "study_name": "US Abdomen Complete",
+        "templates": [
+            {
+                "id": 77,
+                "is_default": true,
+                "name": "US Abdomen Complete",
+                "owner": null,
+                "study_name": "US Abdomen Complete",
+                "template_data": "EXAM:\nUS Abdomen complete\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nReal-time ultrasound of the abdomen (complete) with image documentation.\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nLIVER:\nUnremarkable.\n\nGALLBLADDER:\nNo gallstone. No gallbladder wall thickening. No pericholecystic fluid.\n\nCOMMON BILE DUCT:\nNo dilation.\n\nPANCREAS:\nUnremarkable where visualized. The distal pancreas is obscured by overlying bowel gas.\n\nKIDNEYS:\nUnremarkable. No hydronephrosis.\n\nSPLEEN:\nUnremarkable.\n\nAORTA:\nNo aneurysm.\n\nIVC:\nUnremarkable as visualized.\n\nIMPRESSION:\nUnremarkable complete abdominal ultrasound."
+            }
+        ]
+    },
+    "78": {
+        "study_name": "US Abdomen Complete with Liver Elastography",
+        "templates": [
+            {
+                "id": 78,
+                "is_default": true,
+                "name": "US Abdomen Complete with Liver Elastography",
+                "owner": null,
+                "study_name": "US Abdomen Complete with Liver Elastography",
+                "template_data": "EXAM:\nUS Abdomen Complete with Liver Elastography.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the abdomen (complete) with image documentation. Ten shear liver elastography was done.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLIVER:\nUnremarkable.\n \nELASTOGRAPHY:\nTen shear wave measurements were obtained with acceptable variability between measurements. They demonstrate the following findings:\n \nMedian Velocity: [] m/s, [] kPa\nAverage Velocity: [] m/s, [] kPa\nIQR/M: []\n \nREFERENCE VALUES:\n(Shear wave propagation speed in target tissue)/ Elasticity in Kilopascal\n \nSRU\nNo to mild fibrosis: <1.37 m/s (5.7 kPa)\nModerate to severe fibrosis: 1.37 m/s - 2.2 m/s\nSignificant fibrosis/cirrhosis: >2.2 m/s (15kPa)\n \nMetavir\nF=>2 1.34 m/s (5.7 kPa)\nF=>3 1.55 m/s (7.3 kPa)\nF=4 1.8 m/s (10 kPa)\n \nPORTAL VEIN:\nThe visualized portal vein is within normal limits.\nThere is normal hepatopedal directional flow in the main portal vein.\n \nGALLBLADDER:\nNo gallstone. No wall thickening. No pericholecystic fluid.\n \nCOMMON BILE DUCT:\nNo dilation.\n \nPANCREAS:\nUnremarkable as visualized. The distal pancreas is obscured by overlying bowel gas.\n \nSPLEEN:\nUnremarkable.\n \nKIDNEYS:\nUnremarkable. No hydronephrosis.\n \nAORTA:\nNo aneurysm.\n \nIVC:\nUnremarkable as visualized.\n \nIMPRESSION:\n \n1. 1. No sonographic evidence of hepatic fibrosis.\n2. 2. Unremarkable abdominal ultrasound.\n3. 3. [The variance in the measurements is large (IQR/M > 0.3) and therefore the accuracy of the measurement may be decreased. "
+            }
+        ]
+    },
+    "79": {
+        "study_name": "US Abdomen Limited RUQ with Liver Elastography",
+        "templates": [
+            {
+                "id": 79,
+                "is_default": true,
+                "name": "US Abdomen Limited RUQ with Liver Elastography",
+                "owner": null,
+                "study_name": "US Abdomen Limited RUQ with Liver Elastography",
+                "template_data": "EXAM:\nUS Abdomen Limited, Right Upper Quadrant.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the right upper quadrant with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLIVER:\nUnremarkable.\n \nELASTOGRAPHY:\nTen shear wave measurements were obtained with acceptable variability between measurements. They demonstrate the following findings:\n \nMedian Velocity: [] m/s, [] kPa\nAverage Velocity: [] m/s, [] kPa\nIQR/M: []\n \nREFERENCE VALUES:\n(Shear wave propagation speed in target tissue)/ Elasticity in Kilopascal\n \nSRU\nNo to mild fibrosis: <1.37 m/s (5.7 kPa)\nModerate to severe fibrosis: 1.37 m/s - 2.2 m/s\nSignificant fibrosis/cirrhosis: >2.2 m/s (15kPa)\n \nMetavir\nF=>2 1.34 m/s (5.7 kPa)\nF=>3 1.55 m/s (7.3 kPa)\nF=4 1.8 m/s (10 kPa)\n \nVESSELS:\nThe visualized IVC and portal vein are within normal limits.\nThere is normal hepatopedal directional flow in the main portal vein.\n \nGALLBLADDER:\nNo gallstone. No wall thickening. No pericholecystic fluid.\n \nCOMMON BILE DUCT:\nNo dilation.\n \nPANCREAS:\nUnremarkable as visualized. The distal pancreas is obscured by overlying bowel gas.\n \nRIGHT KIDNEY:\nUnremarkable. No hydronephrosis.\n \nIMPRESSION:\n \n1. 1. No sonographic evidence of hepatic fibrosis.\n2. 2. Unremarkable right upper abdominal ultrasound.\n3. 3. [The variance in the measurements is large (IQR/M > 0.3) and therefore the accuracy of the measurement may be decreased."
+            }
+        ]
+    },
+    "80": {
+        "study_name": "US Abdomen Limited, Appendix",
+        "templates": [
+            {
+                "id": 80,
+                "is_default": true,
+                "name": "US Abdomen Limited, Appendix",
+                "owner": null,
+                "study_name": "US Abdomen Limited, Appendix",
+                "template_data": "EXAM:\nUS Abdomen Limited, Appendix.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the right lower quadrant with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nAPPENDIX:\nThe appendix is not well visualized.\n \nBOWEL:\nNo abnormality appreciated.\n \nOTHER:\nNo fluid collections or masses. No free fluid.\n \nIMPRESSION:\n \nNonvisualized appendix. No sonographic evidence of acute appendicitis."
+            }
+        ]
+    },
+    "81": {
+        "study_name": "US Abdomen Limited, Evaluate for Ascites",
+        "templates": [
+            {
+                "id": 81,
+                "is_default": true,
+                "name": "US Abdomen Limited, Evaluate for Ascites",
+                "owner": null,
+                "study_name": "US Abdomen Limited, Evaluate for Ascites",
+                "template_data": "EXAM:\nUS Abdomen Limited, Evaluate for Ascites.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the abdomen to evaluate for ascites.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nRIGHT UPPER QUADRANT:\nGrossly unremarkable. No free fluid.\n \nLEFT UPPER QUADRANT:\nGrossly unremarkable. No free fluid.\n \nRIGHT LOWER QUADRANT:\nGrossly unremarkable. No free fluid.\n \nLEFT LOWER QUADRANT:\nGrossly unremarkable. No free fluid.\n \nIMPRESSION:\n \nNo free fluid."
+            }
+        ]
+    },
+    "82": {
+        "study_name": "US Abdomen Limited, Gallbladder",
+        "templates": [
+            {
+                "id": 82,
+                "is_default": true,
+                "name": "US Abdomen Limited, Gallbladder",
+                "owner": null,
+                "study_name": "US Abdomen Limited, Gallbladder",
+                "template_data": "EXAM:\nUS Abdomen Limited, Gallbladder.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the gallbladder with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nGALLBLADDER:\nNo gallstone. No wall thickening. No pericholecystic fluid.\n \nCOMMON BILE DUCT:\nNo dilation.\n \nIMPRESSION:\n \nNo sonographic evidence of cholelithiasis or cholecystitis."
+            }
+        ]
+    },
+    "83": {
+        "study_name": "US Abdomen Limited, Intussusception Scan",
+        "templates": [
+            {
+                "id": 83,
+                "is_default": true,
+                "name": "US Abdomen Limited, Intussusception Scan",
+                "owner": null,
+                "study_name": "US Abdomen Limited, Intussusception Scan",
+                "template_data": "EXAM:\nUS Abdomen Limited, Intussusception Scan.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the abdomen and pelvis with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBOWEL:\nNo sonographically visible intussusception. No dilation.\n \nIMPRESSION:\n \nNo sonographically visible intussusception."
+            }
+        ]
+    },
+    "84": {
+        "study_name": "US Abdomen Limited, Pylorus Scan",
+        "templates": [
+            {
+                "id": 84,
+                "is_default": true,
+                "name": "US Abdomen Limited, Pylorus Scan",
+                "owner": null,
+                "study_name": "US Abdomen Limited, Pylorus Scan",
+                "template_data": "EXAM:\nUS Abdomen Limited, Pylorus Scan.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the pyloric sphincter with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nPYLORIC SPHINCTER:\nThe pyloric single wall thickness measures less than [_number_] mm. The pyloric channel length measures less than [_number_] mm. The pyloric diameter measures less than [_number_] mm. These measurements do not meet the criteria for pyloric stenosis.\n \nSTOMACH AND BOWEL:\nThe stomach contents did pass through the pylorus during real-time imaging.\n \nIMPRESSION:\n \nNo sonographic evidence of pyloric stenosis."
+            }
+        ]
+    },
+    "85": {
+        "study_name": "US Abdomen Limited, Right Upper Quadrant",
+        "templates": [
+            {
+                "id": 85,
+                "is_default": true,
+                "name": "US Abdomen Limited, Right Upper Quadrant",
+                "owner": null,
+                "study_name": "US Abdomen Limited, Right Upper Quadrant",
+                "template_data": "EXAM:\nUS Abdomen Limited, Right Upper Quadrant.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the right upper quadrant with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLIVER:\nUnremarkable.\n \nGALLBLADDER:\nNo gallstone. No wall thickening. No pericholecystic fluid.\n \nCOMMON BILE DUCT:\nNo dilation.\n \nPANCREAS:\nUnremarkable as visualized. The distal pancreas is obscured by overlying bowel gas.\n \nRIGHT KIDNEY:\nUnremarkable. No hydronephrosis.\n \nIMPRESSION:\n \nUnremarkable right upper quadrant ultrasound."
+            }
+        ]
+    },
+    "86": {
+        "study_name": "US Biophysical Profile wo Non-Stress Testing",
+        "templates": [
+            {
+                "id": 86,
+                "is_default": true,
+                "name": "US Biophysical Profile wo Non-Stress Testing",
+                "owner": null,
+                "study_name": "US Biophysical Profile wo Non-Stress Testing",
+                "template_data": "EXAM:\nUS Biophysical Profile Without Non-Stress Testing.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the maternal pelvis for fetal biophysical profile evaluation with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nFETAL BREATHING MOVEMENTS:\nScore 2/2.\n \nFETAL BODY MOVEMENTS:\nScore 2/2.\n \nFETAL TONE:\nScore 2/2.\n \nQUALITATIVE AMNIOTIC FLUID VOLUME:\nWithin normal limits. 2/2.\n \nIMPRESSION:\n \nNormal biophysical profile, 8/8."
+            }
+        ]
+    },
+    "87": {
+        "study_name": "US Bladder",
+        "templates": [
+            {
+                "id": 87,
+                "is_default": true,
+                "name": "US Bladder",
+                "owner": null,
+                "study_name": "US Bladder",
+                "template_data": "EXAM:\nUS Bladder.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time bladder ultrasound (complete) with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBLADDER:\nNo intraluminal masses, debris, or wall thickening. The postvoid residual measures less than 60 mL, within normal limits.\n \nIMPRESSION:\n \nUnremarkable bladder. Normal postvoid residual."
+            }
+        ]
+    },
+    "88": {
+        "study_name": "US Breast Complete",
+        "templates": [
+            {
+                "id": 88,
+                "is_default": true,
+                "name": "US Breast Complete",
+                "owner": null,
+                "study_name": "US Breast Complete",
+                "template_data": "EXAM:\nUS Breast Complete.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nAll 4 quadrants, retroareolar position and axilla of both breasts were evaluated with real time ultrasound.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\nNo cystic or solid abnormality. No enlarged lymph nodes. No dilated ducts.\n \nBI-RADS:\n1 - Negative\n \nIMPRESSION:\n \nNormal breast ultrasound. Annual screening mammography is recommended."
+            }
+        ]
+    },
+    "89": {
+        "study_name": "US Breast Limited",
+        "templates": [
+            {
+                "id": 89,
+                "is_default": true,
+                "name": "US Breast Limited",
+                "owner": null,
+                "study_name": "US Breast Limited",
+                "template_data": "EXAM:\nUS [_laterality_] Breast Limited.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nStatic sonographic images of the [_laterality_] breast with image documentation utilizing a linear transducer.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nSOLID MASSES:\nNone.\n \nCYSTIC MASSES:\nNone.\n \nARCHITECTURAL DISTORTION:\nNone.\n \nACOUSTICAL SHADOWING:\nNone.\n \nSKIN THICKENING:\nNone.\n \nIMPRESSION:\n \nNormal limited [_laterality_] breast Ultrasound."
+            }
+        ]
+    },
+    "90": {
+        "study_name": "US Chest Limited, Evaluate for Pleural Effusion",
+        "templates": [
+            {
+                "id": 90,
+                "is_default": true,
+                "name": "US Chest Limited, Evaluate for Pleural Effusion",
+                "owner": null,
+                "study_name": "US Chest Limited, Evaluate for Pleural Effusion",
+                "template_data": "EXAM:\nUS Chest Limited, Evaluate for Pleural Effusion.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the chest to evaluate for pleural effusion.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nPLEURAL SPACES:\nNo pleural effusion.\n \nPERICARDIAL SPACE:\nNo pericardial effusion.\n \nIMPRESSION:\n \nNegative exam."
+            }
+        ]
+    },
+    "91": {
+        "study_name": "US Duplex Arterial-Venous of the Abdomen, Complete",
+        "templates": [
+            {
+                "id": 91,
+                "is_default": true,
+                "name": "US Duplex Arterial-Venous of the Abdomen, Complete",
+                "owner": null,
+                "study_name": "US Duplex Arterial-Venous of the Abdomen, Complete",
+                "template_data": "EXAM:\nUS Duplex Arterial/Venous of the Abdomen, Complete.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time duplex ultrasound scan of the arterial and venous flow of the pelvis with color Doppler flow and spectral waveform analysis.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nPORTAL VEINS:\nNormal velocity. Hepatopetal flow.\n \nHEPATIC ARTERY:\nNormal flow.\n \nHEPATIC VEINS:\nNormal flow.\n \nSPLENIC VEIN:\nNormal flow.\n \nIMPRESSION:\n \nUnremarkable abdominal Doppler evaluation."
+            }
+        ]
+    },
+    "92": {
+        "study_name": "US Duplex Bilateral Carotid and Vertebral Arteries",
+        "templates": [
+            {
+                "id": 92,
+                "is_default": true,
+                "name": "US Duplex Bilateral Carotid and Vertebral Arteries",
+                "owner": null,
+                "study_name": "US Duplex Bilateral Carotid and Vertebral Arteries",
+                "template_data": "EXAM:\nUS Duplex Bilateral Carotid and Vertebral Arteries.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound scan of the bilateral carotid and vertebral arteries, 2-D gray scale, with color Doppler flow and spectral waveform analysis.\nNote: Per PQRS, velocity criteria are extrapolated from diameter data as defined by the Society of Radiologists in Ultrasound Consensus Conference (Radiology 2003; 229; 340-346).\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nRIGHT COMMON CAROTID ARTERY:\nNo occlusion or significant stenosis.\n \nRIGHT INTERNAL CAROTID ARTERY:\nNo occlusion or significant stenosis.\n \nRIGHT EXTERNAL CAROTID ARTERY:\nNo occlusion or significant stenosis.\n \nRIGHT VERTEBRAL ARTERY:\nAntegrade flow.\n \nRIGHT ICA/CCA RATIO:\nWithin normal limits.\n \nLEFT COMMON CAROTID ARTERY:\nNo occlusion or significant stenosis.\n \nLEFT INTERNAL CAROTID ARTERY:\nNo occlusion or significant stenosis.\n \nLEFT EXTERNAL CAROTID ARTERY:\nNo occlusion or significant stenosis.\n \nLEFT VERTEBRAL ARTERY:\nAntegrade flow.\n \nLEFT ICA/CCA RATIO:\nWithin normal limits.\n \nSOFT TISSUES:\nNo incidental abnormalities.\n \nIMPRESSION:\n \nNo hemodynamically significant stenosis by NASCET criteria."
+            }
+        ]
+    },
+    "93": {
+        "study_name": "US Duplex Lower Extremity Arterial",
+        "templates": [
+            {
+                "id": 93,
+                "is_default": true,
+                "name": "US Duplex Lower Extremity Arterial",
+                "owner": null,
+                "study_name": "US Duplex Lower Extremity Arterial",
+                "template_data": "EXAM:\nUS Duplex [_laterality_] Lower Extremity Arteries.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound scan of the arteries of the [_laterality_] lower extremity with 2-D gray scale, color Doppler flow and spectral waveform analysis.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nCOMMON FEMORAL ARTERY:\nNo occlusion or significant stenosis. Normal\n \nSUPERFICIAL FEMORAL ARTERY:\nNo occlusion or significant stenosis. Normal\n \nPOPLITEAL ARTERY:\nNo occlusion or significant stenosis. Normal\n \nCALF ARTERIES:\nNo occlusion or significant stenosis. Normal\n \nIMPRESSION:\n \nNo flow limiting stenosis or occlusion in the [_laterality_] lower extremity."
+            }
+        ]
+    },
+    "94": {
+        "study_name": "US Duplex Lower Extremity Venous",
+        "templates": [
+            {
+                "id": 94,
+                "is_default": true,
+                "name": "US Duplex Lower Extremity Venous",
+                "owner": null,
+                "study_name": "US Duplex Lower Extremity Venous",
+                "template_data": "EXAM:\nUS Duplex [_laterality_] Lower Extremity Veins.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound scan of the veins of the [_laterality_] lower extremity with color Doppler flow, spectral waveform analysis and compression.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nDEEP VEINS:\nThe common femoral, superficial femoral, and popliteal veins are echolucent and compressible. These vessels demonstrate respiratory variation and augmentation. There is normal color Doppler flow throughout. The visualized calf veins are also patent.\n \nSUPERFICIAL VEINS:\nThe visualized greater saphenous vein is patent.\n \nSOFT TISSUES:\nNo popliteal fossa cyst or other abnormalities.\n \nIMPRESSION:\n \nNo deep venous thrombosis in the [_laterality_] lower extremity."
+            }
+        ]
+    },
+    "95": {
+        "study_name": "US Duplex Upper Extremity Arterial",
+        "templates": [
+            {
+                "id": 95,
+                "is_default": true,
+                "name": "US Duplex Upper Extremity Arterial",
+                "owner": null,
+                "study_name": "US Duplex Upper Extremity Arterial",
+                "template_data": "EXAM:\nUS Duplex [_laterality_] Upper Extremity Arteries.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound scan of the arteries of the [_laterality_] upper extremity with 2-D gray scale, color Doppler flow and spectral waveform analysis.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nSUBCLAVIAN ARTERY:\nNo occlusion or significant stenosis. Normal waveform.\n \nAXILLARY ARTERY:\nNo occlusion or significant stenosis. Normal waveform.\n \nBRACHIAL ARTERY:\nNo occlusion or significant stenosis. Normal waveform.\n \nRADIAL ARTERY:\nNo occlusion or significant stenosis. Normal waveform.\n \nULNAR ARTERY:\nNo occlusion or significant stenosis. Normal waveform.\n \nIMPRESSION:\n \nNo flow limiting stenosis or occlusion in the [_laterality_] upper extremity."
+            }
+        ]
+    },
+    "96": {
+        "study_name": "US Duplex Upper Extremity Venous",
+        "templates": [
+            {
+                "id": 96,
+                "is_default": true,
+                "name": "US Duplex Upper Extremity Venous",
+                "owner": null,
+                "study_name": "US Duplex Upper Extremity Venous",
+                "template_data": "EXAM:\nUS Duplex [_laterality_] Upper Extremity Veins.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound scan of the veins of the [_laterality_] upper extremity with color Doppler flow, spectral waveform analysis and compression.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nVEINS:\nThe internal jugular, subclavian, axillary, cephalic, basilic, and brachial veins are echolucent, compressible, and demonstrate normal color Doppler flow.\n \nSOFT TISSUES:\nNo acute finding.\n \nIMPRESSION:\n \nNo deep venous thrombosis in the [_laterality_] upper extremity."
+            }
+        ]
+    },
+    "97": {
+        "study_name": "US Echocardiogram",
+        "templates": [
+            {
+                "id": 97,
+                "is_default": true,
+                "name": "US Echocardiogram",
+                "owner": null,
+                "study_name": "US Echocardiogram",
+                "template_data": "EXAM: \nUS Echocardiogram\n \nCLINICAL HISTORY:\n \nTechnologist comments: n/v past 2 days; chest pain\n \nCOMPARISON:\n \n \nFINDINGS:\n \nDimensions and contractility:\nAortic Root: [] (normal range 2.0-3.6 cm)\nLeft Atrium: [] (normal range 1.9-4.0 cm)\nLVID diastole: [] (normal range 3.7-5.6 cm)\nLVID systole: [] (normal range 2.0-3.5 cm)\nInterventricular septum: [] (normal range 0.6-1.1 cm)\nLV posterior wall: [] (normal range 0.6-1.1 cm)\nEstimated Ejection Fraction: [] percent (normal range 55-75 percent)\n \n1. Technically adequate study.\n2. There are no structural valvular abnormalities.\n3. There is no chamber enlargement.\n4. The left ventricular wall thickness is normal\n5. The left ventricular systolic function is normal, with an estimated ejection fraction of [] percent.\n6. There is no evidence of intracardiac mass or thrombus.\n7. There is no significant pericardial effusion.\n \nDOPPLER SPECTRAL ECHOCARDIOGRAPHY AND COLOR FLOW MAPPING PERFORMED:\n1. There are no stenotic or regurgitant valves.\n2. The diastolic Doppler mitral inflow patterns are visually within normal limits.\n \nIMPRESSION:\n \nNormal transthoracic echocardiogram."
+            }
+        ]
+    },
+    "98": {
+        "study_name": "US Generic Nonvascular Soft Tissue Ultrasound",
+        "templates": [
+            {
+                "id": 98,
+                "is_default": true,
+                "name": "US Generic Nonvascular Soft Tissue Ultrasound",
+                "owner": null,
+                "study_name": "US Generic Nonvascular Soft Tissue Ultrasound",
+                "template_data": "EXAM:\nUS [Generic Body Part] Nonvascular Soft Tissue Ultrasound\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound scan of the [Generic Body Part] with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nSOFT TISSUES:\nNo acute soft tissue findings. No fluid collection to indicate a drainable abscess.\n \nIMPRESSION:\n \nNo acute soft tissue findings."
+            }
+        ]
+    },
+    "99": {
+        "study_name": "US Lower Extremity Nonvascular Soft Tissue Ultrasound",
+        "templates": [
+            {
+                "id": 99,
+                "is_default": true,
+                "name": "US Lower Extremity Nonvascular Soft Tissue Ultrasound",
+                "owner": null,
+                "study_name": "US Lower Extremity Nonvascular Soft Tissue Ultrasound",
+                "template_data": "EXAM:\nUS [_laterality_] Lower Extremity Nonvascular Soft Tissue Ultrasound\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound scan of the [_laterality_] lower extremity with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nSOFT TISSUES:\nNo fluid collection to indicate a drainable abscess.\n \nIMPRESSION:\n \nNo abscess found."
+            }
+        ]
+    },
+    "100": {
+        "study_name": "US Neonatal Brain",
+        "templates": [
+            {
+                "id": 100,
+                "is_default": true,
+                "name": "US Neonatal Brain",
+                "owner": null,
+                "study_name": "US Neonatal Brain",
+                "template_data": "EXAM:\nUS Neonatal Brain\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nTransfontanellar ultrasound examination of the neonatal brain was performed using a high-resolution linear transducer. Both the anterior and posterior fontanelles were used as acoustic windows. Gray-scale and color Doppler images were obtained in coronal and sagittal planes.\n\nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nVENTRICULAR SYSTEM: \nThe lateral ventricles, third ventricle, and fourth ventricle appear normal in size, shape, and symmetry. No evidence of ventriculomegaly or intraventricular hemorrhage is seen.\n \nBRAIN PARENCHYMA: \nThe cerebral hemispheres, cerebellum, and brainstem are unremarkable in appearance. The gyral pattern is appropriate for age, and the echogenicity is within normal limits. No focal mass, cyst, or abnormality is identified.\n \nGERMINAL MATRIX: \nThe germinal matrix is visualized bilaterally and appears normal without any evidence of hemorrhage or abnormality.\n \nEXTRA-AXIAL SPACES: \nNo extra-axial fluid collections or subdural hematomas are seen. The subarachnoid spaces are within normal limits for age.\n \nVASCULATURE: \nColor Doppler evaluation demonstrates normal flow within the major intracranial vessels. No evidence of vascular malformation or abnormality is identified.\n \nIMPRESSION:\nNormal neonatal brain ultrasound. No evidence of intracranial hemorrhage, ventriculomegaly, or abnormality is seen."
+            }
+        ]
+    },
+    "101": {
+        "study_name": "US Obstetrical, Complete < 14 weeks Transvaginal",
+        "templates": [
+            {
+                "id": 101,
+                "is_default": true,
+                "name": "US Obstetrical, Complete < 14 weeks Transvaginal",
+                "owner": null,
+                "study_name": "US Obstetrical, Complete < 14 weeks Transvaginal",
+                "template_data": "EXAM:\nUS Obstetrical, Complete <14 weeks\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nTransvaginal imaging of the maternal pelvis and a <14 week gestation with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nGESTATION:\n[_number_] weeks [_number_] days\n \nUTERUS:\nUnremarkable. No myometrial mass.\n \nCERVIX:\nClosed. Unremarkable.\n \nOVARIES:\nUnremarkable. No mass.\n \nFREE FLUID:\nNo free fluid.\n \nIMPRESSION:\n \nSingle viable intrauterine pregnancy. No acute abnormality."
+            }
+        ]
+    },
+    "102": {
+        "study_name": "US Obstetrical, Complete < 14 weeks Transvaginal and Transabdominal",
+        "templates": [
+            {
+                "id": 102,
+                "is_default": true,
+                "name": "US Obstetrical, Complete < 14 weeks Transvaginal and Transabdominal",
+                "owner": null,
+                "study_name": "US Obstetrical, Complete < 14 weeks Transvaginal and Transabdominal",
+                "template_data": "EXAM:\nUS Obstetrical, Complete <14 weeks\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nTransvaginal and transabdominal imaging of the maternal pelvis and a <14 week gestation with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nGESTATION:\n[_number_] weeks [_number_] days\n \nUTERUS:\nUnremarkable. No myometrial mass.\n \nCERVIX:\nClosed. Unremarkable.\n \nOVARIES:\nUnremarkable. No mass.\n \nFREE FLUID:\nNo free fluid.\n \nIMPRESSION:\n \nSingle viable intrauterine pregnancy. No acute abnormality."
+            }
+        ]
+    },
+    "103": {
+        "study_name": "US Obstetrical, Complete < 14 weeks, Transabdominal",
+        "templates": [
+            {
+                "id": 103,
+                "is_default": true,
+                "name": "US Obstetrical, Complete < 14 weeks, Transabdominal",
+                "owner": null,
+                "study_name": "US Obstetrical, Complete < 14 weeks, Transabdominal",
+                "template_data": "EXAM:\nUS Obstetrical, Complete <14 weeks\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nTransabdominal imaging of the maternal pelvis and a <14 week gestation with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nGESTATION:\n[_number_] weeks [_number_] days\n \nUTERUS:\nUnremarkable. No myometrial mass.\n \nCERVIX:\nClosed. Unremarkable.\n \nOVARIES:\nUnremarkable. No mass.\n \nFREE FLUID:\nNo free fluid.\n \nIMPRESSION:\n \nSingle viable intrauterine pregnancy. No acute abnormality."
+            }
+        ]
+    },
+    "104": {
+        "study_name": "US Obstetrical, Complete > 14 weeks, Transabdominal",
+        "templates": [
+            {
+                "id": 104,
+                "is_default": true,
+                "name": "US Obstetrical, Complete > 14 weeks, Transabdominal",
+                "owner": null,
+                "study_name": "US Obstetrical, Complete > 14 weeks, Transabdominal",
+                "template_data": "EXAM:\nUS Obstetrical, Complete >14 weeks.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nTransabdominal imaging of the maternal pelvis and a > 14 week gestation with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nFETUS:\nThere is a single living intrauterine gestation, estimated gestational age [_ _]\n \nPOSITION:\nFetal position is [_ _].\n \nHEART RATE:\nThe fetal heart rate is [_ _] beats per minute.\n \nBIOMETRICS:\nBased on composite fetal biometry, the estimated gestational age by ultrasound is [_ _].\n \nFETAL ANATOMIC SURVEY:\nThe visualized fetal anatomy is unremarkable.\n \nPLACENTA:\nThe placenta is located [_ _]. No sonographic evidence for previa or abruption.\n \nAMNIOTIC FLUID:\nWithin normal limits.\n \nCERVIX:\nClosed. Unremarkable as visualized.\n \nIMPRESSION:\n \nSingle viable intrauterine pregnancy. No acute abnormality."
+            }
+        ]
+    },
+    "105": {
+        "study_name": "US Obstetrical, Limited",
+        "templates": [
+            {
+                "id": 105,
+                "is_default": true,
+                "name": "US Obstetrical, Limited",
+                "owner": null,
+                "study_name": "US Obstetrical, Limited",
+                "template_data": "EXAM:\nUS Obstetrical, Limited.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the pregnant maternal uterus (limited) with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n[_ _]\n \nIMPRESSION:\n \nLimited evaluation of the maternal uterus. No acute abnormality."
+            }
+        ]
+    },
+    "106": {
+        "study_name": "US Pelvis, Complete Transabdominal",
+        "templates": [
+            {
+                "id": 106,
+                "is_default": true,
+                "name": "US Pelvis, Complete Transabdominal",
+                "owner": null,
+                "study_name": "US Pelvis, Complete Transabdominal",
+                "template_data": "EXAM:\nUS Pelvis, Complete.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nTransabdominal pelvic ultrasound (complete) with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nENDOMETRIUM:\nNormal thickness.\n \nUTERUS/CERVIX:\nNormal size and contour. No fibroid detected.\n \nRIGHT OVARY:\nNormal follicles. No adnexal mass. Normal blood flow.\n \nLEFT OVARY:\nNormal follicles. No adnexal mass. Normal blood flow.\n \nFREE FLUID:\nNo free fluid.\n \nIMPRESSION:\n \nUnremarkable pelvic ultrasound."
+            }
+        ]
+    },
+    "107": {
+        "study_name": "US Pelvis, Complete Transvaginal",
+        "templates": [
+            {
+                "id": 107,
+                "is_default": true,
+                "name": "US Pelvis, Complete Transvaginal",
+                "owner": null,
+                "study_name": "US Pelvis, Complete Transvaginal",
+                "template_data": "EXAM:\nUS Pelvis, Complete.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nTransvaginal pelvic ultrasound (complete) with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nENDOMETRIUM:\nNormal thickness.\n \nUTERUS/CERVIX:\nNormal size and contour. No fibroid detected.\n \nRIGHT OVARY:\nNormal follicles. No adnexal mass. Normal blood flow.\n \nLEFT OVARY:\nNormal follicles. No adnexal mass. Normal blood flow.\n \nFREE FLUID:\nNo free fluid.\n \nIMPRESSION:\n \nUnremarkable pelvic ultrasound."
+            }
+        ]
+    },
+    "108": {
+        "study_name": "US Pelvis, Complete Transvaginal and Transabdominal",
+        "templates": [
+            {
+                "id": 108,
+                "is_default": true,
+                "name": "US Pelvis, Complete Transvaginal and Transabdominal",
+                "owner": null,
+                "study_name": "US Pelvis, Complete Transvaginal and Transabdominal",
+                "template_data": "EXAM:\nUS Pelvis, Complete.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nTransvaginal and transabdominal pelvic ultrasound (complete) with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nENDOMETRIUM:\nNormal thickness.\n \nUTERUS/CERVIX:\nNormal size and contour. No fibroid detected.\n \nRIGHT OVARY:\nNormal follicles. No adnexal mass. Normal blood flow.\n \nLEFT OVARY:\nNormal follicles. No adnexal mass. Normal blood flow.\n \nFREE FLUID:\nNo free fluid.\n \nIMPRESSION:\n \nUnremarkable pelvic ultrasound."
+            }
+        ]
+    },
+    "109": {
+        "study_name": "US Retroperitoneal Complete",
+        "templates": [
+            {
+                "id": 109,
+                "is_default": true,
+                "name": "US Retroperitoneal Complete",
+                "owner": null,
+                "study_name": "US Retroperitoneal Complete",
+                "template_data": "EXAM:\nUS Retroperitoneal Complete.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the retroperitoneum (complete) with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nAORTA:\nNo aneurysm.\n \nCOMMON ILIAC ARTERIES:\nNo aneurysm.\n \nIVC:\nUnremarkable as visualized.\n \nRIGHT KIDNEY:\nUnremarkable. No hydronephrosis.\n \nLEFT KIDNEY:\nUnremarkable. No hydronephrosis.\n \nIMPRESSION:\n \nNo hydronephrosis. No AAA."
+            }
+        ]
+    },
+    "110": {
+        "study_name": "US Retroperitoneal Limited, AORTA",
+        "templates": [
+            {
+                "id": 110,
+                "is_default": true,
+                "name": "US Retroperitoneal Limited, AORTA",
+                "owner": null,
+                "study_name": "US Retroperitoneal Limited, AORTA",
+                "template_data": "EXAM:\nUS Retroperitoneal Limited, AORTA.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the retroperitoneum (limited) with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nAORTA:\nThe proximal, mid, distal aorta are within normal limits for size.\n \nIMPRESSION:\n \nNo abdominal aortic aneurysm."
+            }
+        ]
+    },
+    "111": {
+        "study_name": "US Retroperitoneum Complete, Renal",
+        "templates": [
+            {
+                "id": 111,
+                "is_default": true,
+                "name": "US Retroperitoneum Complete, Renal",
+                "owner": null,
+                "study_name": "US Retroperitoneum Complete, Renal",
+                "template_data": "EXAM:\nUS Retroperitoneum Complete, Renal.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the retroperitoneum (complete) with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nRIGHT KIDNEY:\nNo hydronephrosis, renal stone, or mass visualized.\n \nLEFT KIDNEY:\nNo hydronephrosis, renal stone, or mass visualized.\n \nBLADDER:\nUnremarkable as visualized.\n \nIMPRESSION:\n \nNo hydronephrosis."
+            }
+        ]
+    },
+    "112": {
+        "study_name": "US Retroperitoneum Limited, Renal",
+        "templates": [
+            {
+                "id": 112,
+                "is_default": true,
+                "name": "US Retroperitoneum Limited, Renal",
+                "owner": null,
+                "study_name": "US Retroperitoneum Limited, Renal",
+                "template_data": "EXAM:\nUS Retroperitoneum Limited, Renal.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the retroperitoneum (limited) with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nRIGHT KIDNEY:\nNo hydronephrosis, renal stone, or mass visualized.\n \nLEFT KIDNEY:\nNo hydronephrosis, renal stone, or mass visualized.\n \nIMPRESSION:\n \nNo hydronephrosis."
+            }
+        ]
+    },
+    "113": {
+        "study_name": "US Scrotum-Testicles",
+        "templates": [
+            {
+                "id": 113,
+                "is_default": true,
+                "name": "US Scrotum-Testicles",
+                "owner": null,
+                "study_name": "US Scrotum-Testicles",
+                "template_data": "EXAM:\nUS Scrotum.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound of the scrotum with color Doppler and image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nRIGHT TESTICLE:\nNo mass. Normal Doppler flow.\n \nLEFT TESTICLE:\nNo mass. Normal Doppler flow.\n \nEPIDIDYMIDES:\nUnremarkable.\n \nSCROTUM:\nUnremarkable.\n \nIMPRESSION:\n \nNo acute abnormality."
+            }
+        ]
+    },
+    "115": {
+        "study_name": "US Upper Extremity Nonvascular Soft Tissue Ultrasound",
+        "templates": [
+            {
+                "id": 115,
+                "is_default": true,
+                "name": "US Upper Extremity Nonvascular Soft Tissue Ultrasound",
+                "owner": null,
+                "study_name": "US Upper Extremity Nonvascular Soft Tissue Ultrasound",
+                "template_data": "EXAM:\nUS [_laterality_] Upper Extremity Nonvascular Soft Tissue Ultrasound\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nReal-time ultrasound scan of the [_laterality_] upper extremity with image documentation.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nSOFT TISSUES:\nNo fluid collection to indicate a drainable abscess.\n \nIMPRESSION:\n \nNo abscess found."
+            }
+        ]
+    },
+    "116": {
+        "study_name": "XR Abdomen",
+        "templates": [
+            {
+                "id": 116,
+                "is_default": true,
+                "name": "XR Abdomen",
+                "owner": null,
+                "study_name": "XR Abdomen",
+                "template_data": "EXAM:\nXR Abdomen, [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nLUNG BASES:\nLung bases clear where seen. \n\nBOWEL:\nThe bowel gas pattern is unremarkable. No bowel obstruction. \n\nPERITONEUM/SOFT TISSUES:\nNo appreciable free air. No abnormal calcifications. \n\nBONES:\nNo acute osseous abnormality. \n\nIMPRESSION:\nNo acute abnormalities."
+            }
+        ]
+    },
+    "117": {
+        "study_name": "XR Acute Abdomen Series with XR Chest",
+        "templates": [
+            {
+                "id": 117,
+                "is_default": true,
+                "name": "XR Acute Abdomen Series with XR Chest",
+                "owner": null,
+                "study_name": "XR Acute Abdomen Series with XR Chest",
+                "template_data": "EXAM:\nXR Acute Abdomen Series with XR Chest, upright and supine views of the abdomen, frontal view of the chest, [] Views.\n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nLUNGS:\nNo focal airspace consolidation. \n\nPLEURAL SPACES:\nNo pleural effusion. No pneumothorax. \n\nHEART:\nThe heart size is normal. \n\nMEDIASTINUM:\nUnremarkable. \n\nPERITONEUM:\nNo appreciable free air. \n\nBOWEL:\nThe bowel gas pattern is unremarkable. No bowel obstruction. \n\nBONES:\nNo acute osseous abnormality. \n\nIMPRESSION:\n\nNo radiographic evidence of obstruction or perforation. No acute cardiopulmonary abnormality."
+            }
+        ]
+    },
+    "118": {
+        "study_name": "XR Acute Abdomen Series with XR Chest. Upright and Supine Views of the Abdomen, Frontal View of the Chest",
+        "templates": [
+            {
+                "id": 118,
+                "is_default": true,
+                "name": "XR Acute Abdomen Series with XR Chest. Upright and Supine Views of the Abdomen, Frontal View of the Chest",
+                "owner": null,
+                "study_name": "XR Acute Abdomen Series with XR Chest. Upright and Supine Views of the Abdomen, Frontal View of the Chest",
+                "template_data": "EXAM:\nXR Acute Abdomen Series with XR Chest, upright and supine views of the abdomen, frontal view of the chest, [] Views. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nLUNGS:\nNo focal airspace consolidation. \n\nPLEURAL SPACES:\nNo pleural effusion. No pneumothorax. \n\nHEART:\nThe heart size is normal. \n\nMEDIASTINUM:\nUnremarkable. \n\nPERITONEUM:\nNo appreciable free air. \n\nBOWEL:\nThe bowel gas pattern is unremarkable. No bowel obstruction. \n\nBONES:\nNo acute osseous abnormality. \n\nIMPRESSION:\n\nNo radiographic evidence of obstruction or perforation. No acute cardiopulmonary abnormality."
+            }
+        ]
+    },
+    "119": {
+        "study_name": "XR Acute Abdomen Series. Upright and Supine Views of the Abdomen",
+        "templates": [
+            {
+                "id": 119,
+                "is_default": true,
+                "name": "XR Acute Abdomen Series. Upright and Supine Views of the Abdomen",
+                "owner": null,
+                "study_name": "XR Acute Abdomen Series. Upright and Supine Views of the Abdomen",
+                "template_data": "EXAM:\nXR Acute Abdomen Series. Upright and supine views of the abdomen, [] Views\n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nLUNGS BASES:\nLung bases are clear. No evidence of free air beneath the hemidiaphragms. \n\nBOWEL:\nThe bowel gas pattern is unremarkable. No bowel obstruction. \n\nBONES:\nNo acute osseous abnormality. \n\nIMPRESSION:\n\nNo radiographic evidence of bowel obstruction or free air."
+            }
+        ]
+    },
+    "120": {
+        "study_name": "XR Ankle",
+        "templates": [
+            {
+                "id": 120,
+                "is_default": true,
+                "name": "XR Ankle",
+                "owner": null,
+                "study_name": "XR Ankle",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "121": {
+        "study_name": "XR Bone Age",
+        "templates": [
+            {
+                "id": 121,
+                "is_default": true,
+                "name": "XR Bone Age",
+                "owner": null,
+                "study_name": "XR Bone Age",
+                "template_data": "EXAM:\nBONE AGE STUDY\n \nCLINICAL HISTORY:\n\n \nCOMPARISON:\nNone provided.\n \nTECHNIQUE:\nSingle frontal view of the left hand.\n \nFINDINGS:\n \nSEX:\n[add male or female]\n \nSTUDY DATE:\n[add study date]\n \nDate of Birth:\n[add DOB]\n \nChronological Age:\n[-- years, -- months]\n \nBy the method of Greulich and Pyle, the bone age is estimated to be [-- years, -- months].\nAt the patient's chronological age, two standard deviations for bone age is [ ] months, according to Brush Foundation data.\n \nIMPRESSION:\n \n1. Estimated Bone Age: [-- years, -- months]\n2. Chronological Age: [-- years, -- months]\n3. [Please state whether this is normal - within two standard deviations of chronological age - or abnormal - outside two standard deviations of normal. "
+            }
+        ]
+    },
+    "122": {
+        "study_name": "XR Bone Survey",
+        "templates": [
+            {
+                "id": 122,
+                "is_default": true,
+                "name": "XR Bone Survey",
+                "owner": null,
+                "study_name": "XR Bone Survey",
+                "template_data": "EXAM: \nXR Bone Survey\n\nCLINICAL HISTORY: \n\nTECHNIQUE: \nComplete skeletal survey performed with anteroposterior and lateral views of the skull, anteroposterior views of the spine, chest, pelvis, upper limbs (including hands), and lower limbs (including feet), [] Views.\n\nCOMPARISON: \n[Comparative studies, if available]\n\nFINDINGS: \n- Skull: The calvarium and skull base show normal bone texture. No lytic or blastic lesions identified.\n- Spine: Vertebrae are intact with normal height and alignment. No fractures or lytic lesions appreciated.\n- Chest: The ribs, sternum, and clavicles are unremarkable with no visible lytic or sclerotic lesions. \n- Pelvis and Hips: The ilia, ischia, pubic bones, sacrum, and proximal femora appear normal. No visible fractures or suspicious bone lesions are observed.\n- Upper Limbs: The bones of the upper limbs including humeri, radii, ulnae, and bones of the hands appear normal with no lytic or blastic lesions.\n- Lower Limbs: The bones of the lower limbs including femurs, tibiae, fibulae, and bones of the feet appear normal with no lytic or blastic lesions.\n\nIMPRESSION: \nNo osseous abnormalities identified on this complete skeletal survey. No evidence of fracture, lytic or blastic lesions."
+            }
+        ]
+    },
+    "123": {
+        "study_name": "XR Calcaneus",
+        "templates": [
+            {
+                "id": 123,
+                "is_default": true,
+                "name": "XR Calcaneus",
+                "owner": null,
+                "study_name": "XR Calcaneus",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "124": {
+        "study_name": "XR Cervical and Thoracic Spine",
+        "templates": [
+            {
+                "id": 124,
+                "is_default": true,
+                "name": "XR Cervical and Thoracic Spine",
+                "owner": null,
+                "study_name": "XR Cervical and Thoracic Spine",
+                "template_data": "EXAM:\nXR [Generic] spine, [ ] Views total. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or aggressive appearing osseous lesion. \nPosterior vertebral body alignment is within normal limits in the [generic] spine. \n\nDISCS/DEGENERATIVE CHANGES:\nThe disc spaces are preserved. \n\nSOFT TISSUES:\nNo prevertebral soft tissue swelling evident in the [generic] spine. \nThe visualized lungs appear clear. \n\nIMPRESSION:\n\nNo acute abnormality evident in the [generic] spine."
+            }
+        ]
+    },
+    "125": {
+        "study_name": "XR Cervical Spine",
+        "templates": [
+            {
+                "id": 125,
+                "is_default": true,
+                "name": "XR Cervical Spine",
+                "owner": null,
+                "study_name": "XR Cervical Spine",
+                "template_data": "EXAM:\nXR [Generic] spine, [ ] Views total. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or aggressive appearing osseous lesion. \nPosterior vertebral body alignment is within normal limits in the [generic] spine. \n\nDISCS/DEGENERATIVE CHANGES:\nThe disc spaces are preserved. \n\nSOFT TISSUES:\nNo prevertebral soft tissue swelling evident in the [generic] spine. \nThe visualized lungs appear clear. \n\nIMPRESSION:\n\nNo acute abnormality evident in the [generic] spine."
+            }
+        ]
+    },
+    "126": {
+        "study_name": "XR Cervical, Thoracic, and Lumbar Spine",
+        "templates": [
+            {
+                "id": 126,
+                "is_default": true,
+                "name": "XR Cervical, Thoracic, and Lumbar Spine",
+                "owner": null,
+                "study_name": "XR Cervical, Thoracic, and Lumbar Spine",
+                "template_data": "EXAM:\nXR [Generic] spine, [ ] Views total. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or aggressive appearing osseous lesion. \nPosterior vertebral body alignment is within normal limits in the [generic] spine. \n\nDISCS/DEGENERATIVE CHANGES:\nThe disc spaces are preserved. \n\nSOFT TISSUES:\nNo prevertebral soft tissue swelling evident in the [generic] spine. \nThe visualized lungs appear clear. \n\nIMPRESSION:\n\nNo acute abnormality evident in the [generic] spine."
+            }
+        ]
+    },
+    "127": {
+        "study_name": "XR Chest",
+        "templates": [
+            {
+                "id": 127,
+                "is_default": true,
+                "name": "XR Chest",
+                "owner": null,
+                "study_name": "XR Chest",
+                "template_data": "EXAM:\nXR Chest, [ ] View(s).\n \nCLINICAL HISTORY:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLUNGS:\nThe lungs are clear. No consolidation.\n \nPLEURAL SPACES:\nNo pleural effusion or pneumothorax.\n \nHEART:\nThe heart size is normal. \n\nBONES:\nNo acute osseous abnormality. \n\nIMPRESSION:\n"
+            }
+        ]
+    },
+    "128": {
+        "study_name": "XR Clavicle Complete",
+        "templates": [
+            {
+                "id": 128,
+                "is_default": true,
+                "name": "XR Clavicle Complete",
+                "owner": null,
+                "study_name": "XR Clavicle Complete",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "129": {
+        "study_name": "XR DEXA",
+        "templates": [
+            {
+                "id": 129,
+                "is_default": true,
+                "name": "XR DEXA",
+                "owner": null,
+                "study_name": "XR DEXA",
+                "template_data": "EXAM:\nDEXA BONE MINERAL DENSITY SCAN\n \nCLINICAL HISTORY:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nAP Spine, L1-L4\nBMD = [--] g/cm2 T-score = [--]\n \nFemur neck left\nBMD = [--] g/cm2 T-score = [--]\n \nTotal hip left\nBMD = [--] g/cm2 T-score = [--]\n \nDefinition of terms:\nNormal: Bone mineral density that is within 1 standard deviation of young normals. (T-score greater than -1.0). The probability of fracture is considered to be equal to that of young normal individuals.\n \nOsteopenia: Bone mineral density, which is between 1 and 2.5 standard deviations below young normal control patients (T-score between -1 and -2.5). The possibility of fracture is 2 to 4 times that of young normal patients.\n \nOsteoporosis: Bone mineral density that is greater than or equal to 2.5 standard deviations below young normals (T-score less than -2.5). The possibility of fracture is greater than 4 times that of young normal patients.\n \nIMPRESSION:\n \n[State whether normal, osteopenia, or osteoporosis in each body part surveyed. ]"
+            }
+        ]
+    },
+    "130": {
+        "study_name": "XR Elbow",
+        "templates": [
+            {
+                "id": 130,
+                "is_default": true,
+                "name": "XR Elbow",
+                "owner": null,
+                "study_name": "XR Elbow",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "131": {
+        "study_name": "XR Face",
+        "templates": [
+            {
+                "id": 131,
+                "is_default": true,
+                "name": "XR Face",
+                "owner": null,
+                "study_name": "XR Face",
+                "template_data": "EXAM:\nXR Face, [] View.\n \nCLINICAL HISTORY:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo displaced facial fracture detected.\n \nSINUSES:\nNo air-fluid level.\n \nSOFT TISSUES:\nUnremarkable. No orbital emphysema detected.\n \nIMPRESSION:\n \n1. No displaced facial fracture detected.\n2. Radiographic sensitivity for facial fractures is quite limited. If symptoms persist, consider a maxillofacial CT for further evaluation."
+            }
+        ]
+    },
+    "132": {
+        "study_name": "XR Femur",
+        "templates": [
+            {
+                "id": 132,
+                "is_default": true,
+                "name": "XR Femur",
+                "owner": null,
+                "study_name": "XR Femur",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "133": {
+        "study_name": "XR Finger(s)",
+        "templates": [
+            {
+                "id": 133,
+                "is_default": true,
+                "name": "XR Finger(s)",
+                "owner": null,
+                "study_name": "XR Finger(s)",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "134": {
+        "study_name": "XR Foot",
+        "templates": [
+            {
+                "id": 134,
+                "is_default": true,
+                "name": "XR Foot",
+                "owner": null,
+                "study_name": "XR Foot",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "135": {
+        "study_name": "XR Foot and Ankle",
+        "templates": [
+            {
+                "id": 135,
+                "is_default": true,
+                "name": "XR Foot and Ankle",
+                "owner": null,
+                "study_name": "XR Foot and Ankle",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "136": {
+        "study_name": "XR Forearm",
+        "templates": [
+            {
+                "id": 136,
+                "is_default": true,
+                "name": "XR Forearm",
+                "owner": null,
+                "study_name": "XR Forearm",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "137": {
+        "study_name": "XR Generic Extremity",
+        "templates": [
+            {
+                "id": 137,
+                "is_default": true,
+                "name": "XR Generic Extremity",
+                "owner": null,
+                "study_name": "XR Generic Extremity",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "138": {
+        "study_name": "XR Hand",
+        "templates": [
+            {
+                "id": 138,
+                "is_default": true,
+                "name": "XR Hand",
+                "owner": null,
+                "study_name": "XR Hand",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "139": {
+        "study_name": "XR Heel",
+        "templates": [
+            {
+                "id": 139,
+                "is_default": true,
+                "name": "XR Heel",
+                "owner": null,
+                "study_name": "XR Heel",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "140": {
+        "study_name": "XR Hip",
+        "templates": [
+            {
+                "id": 140,
+                "is_default": true,
+                "name": "XR Hip",
+                "owner": null,
+                "study_name": "XR Hip",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "141": {
+        "study_name": "XR Humerus",
+        "templates": [
+            {
+                "id": 141,
+                "is_default": true,
+                "name": "XR Humerus",
+                "owner": null,
+                "study_name": "XR Humerus",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "142": {
+        "study_name": "XR Knee",
+        "templates": [
+            {
+                "id": 142,
+                "is_default": true,
+                "name": "XR Knee",
+                "owner": null,
+                "study_name": "XR Knee",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "143": {
+        "study_name": "XR Lumbar Spine",
+        "templates": [
+            {
+                "id": 143,
+                "is_default": true,
+                "name": "XR Lumbar Spine",
+                "owner": null,
+                "study_name": "XR Lumbar Spine",
+                "template_data": "EXAM:\nXR [Generic] spine, [ ] Views total. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or aggressive appearing osseous lesion. \nPosterior vertebral body alignment is within normal limits in the [generic] spine. \n\nDISCS/DEGENERATIVE CHANGES:\nThe disc spaces are preserved. \n\nSOFT TISSUES:\nNo prevertebral soft tissue swelling evident in the [generic] spine. \nThe visualized lungs appear clear. \n\nIMPRESSION:\n\nNo acute abnormality evident in the [generic] spine."
+            }
+        ]
+    },
+    "144": {
+        "study_name": "XR Mandible",
+        "templates": [
+            {
+                "id": 144,
+                "is_default": true,
+                "name": "XR Mandible",
+                "owner": null,
+                "study_name": "XR Mandible",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "145": {
+        "study_name": "XR Nasal Bone",
+        "templates": [
+            {
+                "id": 145,
+                "is_default": true,
+                "name": "XR Nasal Bone",
+                "owner": null,
+                "study_name": "XR Nasal Bone",
+                "template_data": "EXAM:\nXR Nasal Bones, [] View.\n \nCLINICAL HISTORY:\nAbdominal pain\n \nCOMPARISON:\n \nFINDINGS:\n \nBONES:\nNo displaced nasal fracture detected.\n \nSINUSES:\nNo air-fluid level.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \n1. No displaced nasal fracture detected.\n2. Radiographic sensitivity for nasal bone fractures is quite limited. If symptoms persist, consider a maxillofacial CT for further evaluation."
+            }
+        ]
+    },
+    "146": {
+        "study_name": "XR Orbits",
+        "templates": [
+            {
+                "id": 146,
+                "is_default": true,
+                "name": "XR Orbits",
+                "owner": null,
+                "study_name": "XR Orbits",
+                "template_data": "EXAM:\nXR Orbits, [] View.\n \nCLINICAL HISTORY:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo displaced orbital fracture detected.\n \nSINUSES:\nNo air-fluid level.\n \nSOFT TISSUES:\nUnremarkable. No orbital emphysema.\n \nIMPRESSION:\n \n1. No displaced orbital fracture detected.\n2. Radiographic sensitivity for an orbital fracture is quite limited. If symptoms persist, consider a maxillofacial CT for further evaluation."
+            }
+        ]
+    },
+    "147": {
+        "study_name": "XR Orthopantomogram",
+        "templates": [
+            {
+                "id": 147,
+                "is_default": true,
+                "name": "XR Orthopantomogram",
+                "owner": null,
+                "study_name": "XR Orthopantomogram",
+                "template_data": "EXAM:\nXR Orthopantomogram.\n \nCLINICAL HISTORY:\n \nTECHNIQUE:\nPanorex view of the mandible.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nDENTAL:\nNo acute finding.\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nTMJ:\nNo dislocation.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "148": {
+        "study_name": "XR Paranasal Sinuses",
+        "templates": [
+            {
+                "id": 148,
+                "is_default": true,
+                "name": "XR Paranasal Sinuses",
+                "owner": null,
+                "study_name": "XR Paranasal Sinuses",
+                "template_data": "EXAM:\nXR Paranasal sinuses, [] View.\n \nCLINICAL HISTORY:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo displaced facial fracture detected.\n \nSINUSES:\nNo air-fluid level. No paranasal opacification identified.\n \nORBITS:\nNo obvious orbital abnormality. No orbital emphysema detected.\n \nSOFT TISSUES:\nUnremarkable.\n \nIMPRESSION:\n \nNo acute paranasal sinus abnormality evident on plain film examination."
+            }
+        ]
+    },
+    "149": {
+        "study_name": "XR Pelvis",
+        "templates": [
+            {
+                "id": 149,
+                "is_default": true,
+                "name": "XR Pelvis",
+                "owner": null,
+                "study_name": "XR Pelvis",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "150": {
+        "study_name": "XR Pelvis and Hip",
+        "templates": [
+            {
+                "id": 150,
+                "is_default": true,
+                "name": "XR Pelvis and Hip",
+                "owner": null,
+                "study_name": "XR Pelvis and Hip",
+                "template_data": "EXAM:\nXR Pelvis and [laterality] Hip(s), [] View.\n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "151": {
+        "study_name": "XR Ribs",
+        "templates": [
+            {
+                "id": 151,
+                "is_default": true,
+                "name": "XR Ribs",
+                "owner": null,
+                "study_name": "XR Ribs",
+                "template_data": "EXAM:\nXR [_laterality_] Ribs, [] View, including frontal view of the chest.\n CLINICAL HISTORY:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLUNGS:\nNo focal airspace consolidation.\n \nPLEURAL SPACES:\nNo pleural effusion. No pneumothorax.\n \nBONES:\nNo visible acute rib fracture.\n \nIMPRESSION:\n \nNo visible acute rib fracture. No pneumothorax."
+            }
+        ]
+    },
+    "152": {
+        "study_name": "XR Ribs and AP Chest",
+        "templates": [
+            {
+                "id": 152,
+                "is_default": true,
+                "name": "XR Ribs and AP Chest",
+                "owner": null,
+                "study_name": "XR Ribs and AP Chest",
+                "template_data": "EXAM:\nXR [_laterality_] Ribs and AP Chest, [] Views total.\n \nCLINICAL HISTORY:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nLUNGS:\nNo focal airspace consolidation.\n \nPLEURAL SPACES:\nNo pleural effusion. No pneumothorax.\n \nHEART:\nHeart size normal.\n \nMEDIASTINUM:\nUnremarkable.\n \nBONES:\nNo visible acute rib fracture.\n \nIMPRESSION:\n \nNo visible acute rib fracture. No pneumothorax."
+            }
+        ]
+    },
+    "153": {
+        "study_name": "XR Sacrum and Coccyx",
+        "templates": [
+            {
+                "id": 153,
+                "is_default": true,
+                "name": "XR Sacrum and Coccyx",
+                "owner": null,
+                "study_name": "XR Sacrum and Coccyx",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "154": {
+        "study_name": "XR Scoliosis Series",
+        "templates": [
+            {
+                "id": 154,
+                "is_default": true,
+                "name": "XR Scoliosis Series",
+                "owner": null,
+                "study_name": "XR Scoliosis Series",
+                "template_data": "EXAM:\nXR Scoliosis series, AP and lateral views.\n \nCLINICAL HISTORY:\nEvaluate scoliosis.\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion. Bony alignment is anatomic.\n \nDISCS/DEGENERATIVE CHANGES:\nThe disc spaces are preserved.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "155": {
+        "study_name": "XR Shoulder",
+        "templates": [
+            {
+                "id": 155,
+                "is_default": true,
+                "name": "XR Shoulder",
+                "owner": null,
+                "study_name": "XR Shoulder",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "156": {
+        "study_name": "XR Shunt",
+        "templates": [
+            {
+                "id": 156,
+                "is_default": true,
+                "name": "XR Shunt",
+                "owner": null,
+                "study_name": "XR Shunt",
+                "template_data": "EXAM:\nXR Shunt, A series of radiographs from the skull to the abdomen was obtained in order to trace the course of the shunt, [] Views.\n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone.\n\nFINDINGS:\n\nHEAD:\nNo evidence of acute intracranial abnormality. \n\nSHUNT TUBE:\n The shunt tube courses subcutaneously, appearing continuous without evidence of kinking, breakage, or disconnection. No radiopaque masses to suggest a pseudocyst are observed along its course.\n\nDISTAL END:\n The distal shunt catheter tip appears to be appropriately positioned in the peritoneal cavity. There are no abnormal soft tissue masses, calcifications, or free air in the abdomen to suggest shunt malfunction or infection.\n\nIMPRESSION:\n\nThe ventricular shunt system appears patent without evidence of disconnection or malfunction. Ventricular size is stable compared to prior study."
+            }
+        ]
+    },
+    "157": {
+        "study_name": "XR Skull",
+        "templates": [
+            {
+                "id": 157,
+                "is_default": true,
+                "name": "XR Skull",
+                "owner": null,
+                "study_name": "XR Skull",
+                "template_data": "EXAM:\nXR Skull, [] View.\n \nCLINICAL HISTORY:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion.\n \nSINUSES:\nUnremarkable. No air-fluid levels.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute abnormalities."
+            }
+        ]
+    },
+    "158": {
+        "study_name": "XR Soft Tissues Neck",
+        "templates": [
+            {
+                "id": 158,
+                "is_default": true,
+                "name": "XR Soft Tissues Neck",
+                "owner": null,
+                "study_name": "XR Soft Tissues Neck",
+                "template_data": "EXAM:\nXR Soft Tissue Neck, [] View.\n \nCLINICAL HISTORY:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nSOFT TISSUES:\nUnremarkable. No retropharyngeal soft tissue swelling or gas.\n \nEPIGLOTTIS:\nNo epiglottic thickening.\n \nBONES:\nNo acute osseous abnormality.\n \nIMPRESSION:\n \nNegative exam."
+            }
+        ]
+    },
+    "159": {
+        "study_name": "XR Sternum",
+        "templates": [
+            {
+                "id": 159,
+                "is_default": true,
+                "name": "XR Sternum",
+                "owner": null,
+                "study_name": "XR Sternum",
+                "template_data": "EXAM:\nXR Sternum, [] View.\n \nCLINICAL HISTORY:\n \nCOMPARISON:\nNone provided.\n \nFINDINGS:\n \nBONES:\nNo acute fracture or focal osseous lesion. No sternoclavicular dislocation.\n \nSOFT TISSUES:\nThe soft tissues are unremarkable.\n \nIMPRESSION:\n \nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "160": {
+        "study_name": "XR Thoracic and Lumbar Spine",
+        "templates": [
+            {
+                "id": 160,
+                "is_default": true,
+                "name": "XR Thoracic and Lumbar Spine",
+                "owner": null,
+                "study_name": "XR Thoracic and Lumbar Spine",
+                "template_data": "EXAM:\nXR [Generic] spine, [ ] Views total. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or aggressive appearing osseous lesion. \nPosterior vertebral body alignment is within normal limits in the [generic] spine. \n\nDISCS/DEGENERATIVE CHANGES:\nThe disc spaces are preserved. \n\nSOFT TISSUES:\nNo prevertebral soft tissue swelling evident in the [generic] spine. \nThe visualized lungs appear clear. \n\nIMPRESSION:\n\nNo acute abnormality evident in the [generic] spine."
+            }
+        ]
+    },
+    "161": {
+        "study_name": "XR Thoracic Spine",
+        "templates": [
+            {
+                "id": 161,
+                "is_default": true,
+                "name": "XR Thoracic Spine",
+                "owner": null,
+                "study_name": "XR Thoracic Spine",
+                "template_data": "EXAM:\nXR [Generic] spine, [ ] Views total. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or aggressive appearing osseous lesion. \nPosterior vertebral body alignment is within normal limits in the [generic] spine. \n\nDISCS/DEGENERATIVE CHANGES:\nThe disc spaces are preserved. \n\nSOFT TISSUES:\nNo prevertebral soft tissue swelling evident in the [generic] spine. \nThe visualized lungs appear clear. \n\nIMPRESSION:\n\nNo acute abnormality evident in the [generic] spine."
+            }
+        ]
+    },
+    "162": {
+        "study_name": "XR Thumb",
+        "templates": [
+            {
+                "id": 162,
+                "is_default": true,
+                "name": "XR Thumb",
+                "owner": null,
+                "study_name": "XR Thumb",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "163": {
+        "study_name": "XR Tibia and fibula",
+        "templates": [
+            {
+                "id": 163,
+                "is_default": true,
+                "name": "XR Tibia and fibula",
+                "owner": null,
+                "study_name": "XR Tibia and fibula",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "164": {
+        "study_name": "XR Toes",
+        "templates": [
+            {
+                "id": 164,
+                "is_default": true,
+                "name": "XR Toes",
+                "owner": null,
+                "study_name": "XR Toes",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "165": {
+        "study_name": "XR Wrist",
+        "templates": [
+            {
+                "id": 165,
+                "is_default": true,
+                "name": "XR Wrist",
+                "owner": null,
+                "study_name": "XR Wrist",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "166": {
+        "study_name": "XR Wrist and Hand",
+        "templates": [
+            {
+                "id": 166,
+                "is_default": true,
+                "name": "XR Wrist and Hand",
+                "owner": null,
+                "study_name": "XR Wrist and Hand",
+                "template_data": "EXAM:\nXR [_laterality_] [_body part_], [] View. \n\nCLINICAL HISTORY:\n \nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion. \n\nJOINTS:\nNo dislocation. The joint spaces are normal. \n\nSOFT TISSUES:\nThe soft tissues are unremarkable. \n\nIMPRESSION:\n\nNo acute osseous abnormality."
+            }
+        ]
+    },
+    "167": {
+        "study_name": "CT Cervical, Thoracic, and Lumbar Spine",
+        "templates": [
+            {
+                "id": 594,
+                "is_default": true,
+                "name": "CT Cervical, Thoracic, and Lumbar Spine",
+                "owner": null,
+                "study_name": "CT Cervical, Thoracic, and Lumbar Spine",
+                "template_data": "EXAM:\nCT Cervical, Thoracic, and Lumbar Spine [Without or With] Intravenous Contrast.\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nAxial computed tomography images of the [generic] spine [without or with] intravenous contrast. Sagittal and coronal reformations performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction. \n\nCONTRAST:\n[With or without];\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion.\nBony alignment is anatomic.\n\nDISCS / DEGENERATIVE CHANGES:\nNo significant disc or facet degeneration.\nNo significant central canal or neural foraminal stenosis.\n\nSOFT TISSUES:\nNo prevertebral soft tissue swelling.\n\nIMPRESSION:\n\n1. No acute [generic] spine fracture or dislocation."
+            }
+        ]
+    },
+    "168": {
+        "study_name": "CT Cervical and Thoracic Spine",
+        "templates": [
+            {
+                "id": 595,
+                "is_default": true,
+                "name": "CT Cervical and Thoracic Spine",
+                "owner": null,
+                "study_name": "CT Cervical and Thoracic Spine",
+                "template_data": "EXAM:\nCT Cervical and Thoracic Spine [Without or With] Intravenous Contrast.\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nAxial computed tomography images of the [generic] spine [without or with] intravenous contrast. Sagittal and coronal reformations performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction. \n\nCONTRAST:\n[With or without];\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion.\nBony alignment is anatomic.\n\nDISCS / DEGENERATIVE CHANGES:\nNo significant disc or facet degeneration.\nNo significant central canal or neural foraminal stenosis.\n\nSOFT TISSUES:\nNo prevertebral soft tissue swelling.\n\nIMPRESSION:\n\n1. No acute [generic] spine fracture or dislocation."
+            }
+        ]
+    },
+    "169": {
+        "study_name": "CT Thoracic and Lumbar Spine",
+        "templates": [
+            {
+                "id": 596,
+                "is_default": true,
+                "name": "CT Thoracic and Lumbar Spine",
+                "owner": null,
+                "study_name": "CT Thoracic and Lumbar Spine",
+                "template_data": "EXAM:\nCT Thoracic and Lumbar Spine [Without or With] Intravenous Contrast.\n\nCLINICAL HISTORY:\n\nTECHNIQUE:\nAxial computed tomography images of the [generic] spine [without or with] intravenous contrast. Sagittal and coronal reformations performed. Dose reduction technique was used including one or more of the following: automated exposure control, adjustment of mA and kV according to patient size, and/or iterative\u00a0reconstruction. \n\nCONTRAST:\n[With or without];\n\nCOMPARISON:\nNone provided.\n\nFINDINGS:\n\nBONES:\nNo acute fracture or focal osseous lesion.\nBony alignment is anatomic.\n\nDISCS / DEGENERATIVE CHANGES:\nNo significant disc or facet degeneration.\nNo significant central canal or neural foraminal stenosis.\n\nSOFT TISSUES:\nNo prevertebral soft tissue swelling.\n\nIMPRESSION:\n\n1. No acute [generic] spine fracture or dislocation."
+            }
+        ]
+    }
+}
