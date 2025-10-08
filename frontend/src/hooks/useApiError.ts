@@ -29,8 +29,20 @@ export const useApiError = () => {
 
 export const handleResponse = async <T>(response: Response): Promise<T> => {
   if (!response.ok) {
-    const error = await response.json().catch(() => null);
-    throw new Error(error?.message || 'An error occurred');
+    let errorMessage = 'An error occurred';
+    let errorData: any = null;
+    
+    try {
+      errorData = await response.json();
+      errorMessage = errorData?.message || errorData?.detail || response.statusText;
+    } catch {
+      errorMessage = response.statusText || 'An error occurred';
+    }
+    
+    const error = new Error(errorMessage);
+    (error as any).status = response.status;
+    (error as any).data = errorData;
+    throw error;
   }
   return response.json();
 }; 
